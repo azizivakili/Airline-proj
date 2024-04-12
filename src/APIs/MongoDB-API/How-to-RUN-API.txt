@@ -1,0 +1,4 @@
+python3 -m uvicorn AirlineDB-API:app --reload
+
+
+Then : http://127.0.0.1:8000/docs

@@ -1,0 +1,492 @@
+,Aircraft,Flight Type,Origin,Destination,Departure Time,Arrival Time,Estimated Arrival Time,RealArrivalTime,EA_Time_Minutes,RA_Time_Minutes,Delay_Time
+0,AAY2839,A320,Norfolk Intl (KORF),Orlando Sanford Intl (KSFB),Mon 03:21PM EST,Mon 05:01PM EST,0 days 01:32:00,2h 02m,92,122,30
+1,AAY411,A320,Fort Lauderdale Intl (KFLL),Cincinnati/Northern Kentucky International Airport (KCVG),Mon 03:21PM EST,Mon 05:48PM EST,0 days 02:23:00,2h 52m,143,172,29
+2,ABY552,A320,Sharjah Int'l (SHJ / OMSJ),Sialkot Int'l (SKT / OPST),Tue 12:22AM +04,Tue 03:57AM PKT,0 days 02:35:00,2h 45m,155,165,10
+3,AFR1384,A320,Charles de Gaulle/Roissy (CDG / LFPG),Tunis-Carthage Int'l (TUN / DTTA),Mon 09:21PM CET,Mon 11:29PM CET,0 days 02:07:00,2h 23m,127,143,16
+4,AFR1748,A320,Charles de Gaulle/Roissy (CDG / LFPG),Malaga (AGP / LEMG),Mon 09:20PM CET,Mon 11:51PM CET,0 days 02:29:00,2h 49m,149,169,20
+5,AFR6144,A320,Paris Orly (ORY / LFPO),Toulouse-Blagnac (TLS / LFBO),Mon 09:21PM CET,Mon 10:20PM CET,0 days 01:00:00,1h 10m,60,70,10
+6,AMC615,A320,Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF),Malta Int'l (Luqa) (MLA / LMML),Mon 09:21PM CET,Mon 10:31PM CET,0 days 01:10:00,1h 09m,70,69,-1
+7,ARE4012,A320,El Dorado Int'l (BOG / SKBO),Jose Maria Cordova Int'l (MDE / SKRG),Mon 03:21PM -05,Mon 03:59PM -05,0 days 00:38:00,1h 37m,38,97,59
+8,AVA221,A320,Punta Cana Int'l (PUJ / MDPC),Jose Maria Cordova Int'l (MDE / SKRG),Mon 04:22PM AST,Mon 05:41PM -05,0 days 02:19:00,2h 39m,139,159,20
+9,AZU4239,A320,Viracopos Int'l (VCP / SBKP),Marechal Rondon (CGB / SBCY),Mon 05:21PM -03,Mon 06:06PM -04,0 days 01:46:00,2h 06m,106,126,20
+10,BEL2629,A320,Brussels (BRU / EBBR),Hamburg (HAM / EDDH),Mon 09:19PM CET,Mon 10:00PM CET,0 days 00:50:00,1h 30m,50,90,40
+11,BEL3731,A320,Brussels (BRU / EBBR),Adolfo Suárez Madrid-Barajas (MAD / LEMD),Mon 09:21PM CET,Mon 11:46PM CET,0 days 02:25:00,2h 09m,145,129,-16
+12,CEB563,A320,Manila Int'l (MNL / RPLL),Mactan-Cebu Int'l (CEB / RPVM),Tue 04:22AM PST,Tue 05:37AM PST,0 days 01:15:00,1h 08m,75,68,-7
+13,CEB954,A320,Francisco Bangoy Int'l (DVO / RPMD),Manila Int'l (MNL / RPLL),Tue 04:22AM PST,Tue 06:02AM PST,0 days 01:40:00,1h 40m,100,100,0
+14,DAL2674,A320,Reagan National (KDCA),Hartsfield-Jackson Intl (KATL),Mon 03:20PM EST,Mon 04:36PM EST,0 days 01:16:00,1h 42m,76,102,26
+15,DLH1100,A320,Frankfurt Int'l (FRA / EDDF),Toulouse-Blagnac (TLS / LFBO),Mon 09:20PM CET,Mon 10:35PM CET,0 days 01:25:00,1h 25m,85,85,0
+16,DLH1402,A320,Frankfurt Int'l (FRA / EDDF),Václav Havel Airport (PRG / LKPR),Mon 09:21PM CET,Mon 10:06PM CET,0 days 00:45:00,0h 44m,45,44,-1
+17,EZY1304,A320,Nantes Atlantique (NTE / LFRS),Geneva Cointrin Int'l (GVA / LSGG),Mon 09:21PM CET,Mon 10:29PM CET,0 days 01:08:00,1h 28m,68,88,20
+18,EZY2004,A320,Malaga (AGP / LEMG),Manchester (MAN / EGCC),Mon 09:22PM CET,Mon 10:52PM GMT,0 days 02:30:00,2h 49m,150,169,19
+19,EZY2286,A320,Al Massira (AGA / GMAD),Manchester (MAN / EGCC),Mon 09:22PM +01,Mon 11:50PM GMT,0 days 03:17:00,3h 59m,197,239,42
+20,EZY2426,A320,Nice Cote d'Azur (NCE / LFMN),London Luton (LTN / EGGW),Mon 09:21PM CET,Mon 10:11PM GMT,0 days 01:50:00,2h 10m,110,130,20
+21,LAN771,A320,Rio de Janeiro/Galeao Intl (GIG / SBGL),Comodoro Arturo Merino Benitez Int'l (SCL / SCEL),Mon 05:22PM -03,Mon 09:48PM -03,0 days 04:26:00,4h 49m,266,289,23
+22,LPE2088,A320,Comandante FAP Guillermo del Castillo Paredes (TPP / SPST),Jorge Chávez Int'l (LIM / SPJC),Mon 03:21PM -05,Mon 04:19PM -05,0 days 00:58:00,1h 08m,58,68,10
+23,NKS1592,A320,Newark Liberty Intl (KEWR),Nashville Intl (KBNA),Mon 03:22PM EST,Mon 04:14PM CST,0 days 01:52:00,2h 16m,112,136,24
+24,QTR671,A320,Male Int'l (MLE / VRMM),Hamad Int'l (DOH / OTHH),Tue 01:21AM +05,Tue 04:15AM +03,0 days 04:35:00,4h 57m,275,297,22
+25,SBI5566,A320,Tashkent (TAS / UTTT),Novosibirsk Tolmachevo (OVB / UNNT),Tue 01:21AM +05,Tue 05:51AM +07,0 days 02:30:00,2h 30m,150,150,0
+26,SWR1950,A320,Zurich (Kloten) (ZRH / LSZH),Barcelona Int'l (BCN / LEBL),Mon 09:20PM CET,Mon 10:40PM CET,0 days 01:20:00,1h 30m,80,90,10
+27,TAM3759,A320,Governador Jorge Teixeira de Oliveira Int'l (PVH / SBPV),São Paulo-Guarulhos Int'l (GRU / SBGR),Mon 04:20PM -04,Mon 08:45PM -03,0 days 03:25:00,3h 35m,205,215,10
+28,UAL378,A320,Chicago O'Hare Intl (KORD),Boston Logan Intl (KBOS),Mon 02:23PM CST,Mon 05:31PM EST,0 days 02:08:00,2h 38m,128,158,30
+29,VIV3243,A320,Hermanos Serdan Int'l (PBC / MMPB),Don Miguel Hidalgo y Costilla Int'l (GDL / MMGL),Mon 02:22PM CST,Mon 03:32PM CST,0 days 01:10:00,1h 28m,70,88,18
+30,VLG8936,A320,Menorca (MAH / LEMH),Guararapes Int'l (Gilberto Freyre Int'l) (REC / SBRF),Mon 09:21PM CET,Mon 07:33PM -03,0 days 02:13:00,2h 25m,133,145,12
+31,AAY935,A320,Punta Gorda (KPGD),Springfield (KSGF),Mon 03:44PM EST,Mon 05:19PM CST,0 days 02:18:00,2h 58m,138,178,40
+32,AFR7466,A320,Charles de Gaulle/Roissy (CDG / LFPG),Montpellier (MPL / LFMT),Mon 09:44PM CET,Mon 10:55PM CET,0 days 01:18:00,1h 28m,78,88,10
+33,ANZ676,A320,Dunedin Int'l (DUD / NZDN),Auckland (AKL / NZAA),Tue 09:42AM NZDT,Tue 11:23AM NZDT,0 days 01:26:00,1h 55m,86,115,29
+34,ARE4065,A320,El Dorado Int'l (BOG / SKBO),Alfonso Bonilla Aragon Int'l (CLO / SKCL),Mon 03:42PM -05,Mon 04:27PM -05,0 days 00:45:00,1h 49m,45,109,64
+35,ARE4377,A320,Matecana Int'l (PEI / SKPE),Jose Maria Cordova Int'l (MDE / SKRG),Mon 03:44PM -05,Mon 04:05PM -05,0 days 00:21:00,0h 30m,21,30,9
+36,AVA4874,A320,El Dorado Int'l (BOG / SKBO),El Alcaravan (EYP / SKYP),Mon 03:45PM -05,Mon 03:52PM -05,0 days 00:06:00,0h 36m,6,36,30
+37,AVA9274,A320,Alfonso Bonilla Aragon Int'l (CLO / SKCL),Jose Maria Cordova Int'l (MDE / SKRG),Mon 03:45PM -05,Mon 04:18PM -05,0 days 00:33:00,0h 53m,33,53,20
+38,AZU4419,A320,Marechal Rondon (CGB / SBCY),Tancredo Neves Int'l (CNF / SBCF),Mon 04:44PM -04,Mon 07:38PM -03,0 days 01:54:00,2h 13m,114,133,19
+39,BAW465,A320,Adolfo Suárez Madrid-Barajas (MAD / LEMD),London Heathrow (LHR / EGLL),Mon 09:46PM CET,Mon 10:18PM GMT,0 days 01:32:00,2h 03m,92,123,31
+40,CSZ9006,A320,Suvarnabhumi Bangkok Int'l (BKK / VTBS),Shenzhen Bao'an Int'l (SZX / ZGSZ),Tue 03:46AM +07,Tue 07:02AM CST,0 days 02:16:00,2h 29m,136,149,13
+41,DAL1369,A320,Gerald R Ford Intl (KGRR),Hartsfield-Jackson Intl (KATL),Mon 03:42PM EST,Mon 05:17PM EST,0 days 01:35:00,2h 04m,95,124,29
+42,DAL2432,A320,Orlando Intl (KMCO),Raleigh-Durham Intl (KRDU),Mon 03:44PM EST,Mon 04:55PM EST,0 days 01:16:00,1h 33m,76,93,17
+43,DLH2238,A320,Munich Int'l (MUC / EDDM),Charles de Gaulle/Roissy (CDG / LFPG),Mon 09:44PM CET,Mon 11:04PM CET,0 days 01:20:00,1h 16m,80,76,-4
+44,EZY1328,A320,Nice Cote d'Azur (NCE / LFMN),Geneva Cointrin Int'l (GVA / LSGG),Mon 09:43PM CET,Mon 10:18PM CET,0 days 00:35:00,0h 54m,35,54,19
+45,EZY2462,A320,General Humberto Delgado Airport (LIS / LPPT),London Luton (LTN / EGGW),Mon 08:45PM WET,Mon 11:08PM GMT,0 days 02:23:00,2h 43m,143,163,20
+46,EZY2716,A320,Malaga (AGP / LEMG),Bristol Int'l (BRS / EGGD),Mon 09:43PM CET,Mon 11:50PM GMT,0 days 03:07:00,3h 31m,187,211,24
+47,EZY3200,A320,Tenerife South (Reina Sofia) (TFS / GCTS),Edinburgh (EDI / EGPH),Mon 08:46PM WET,Tue 12:58AM GMT,0 days 04:12:00,4h 13m,252,253,1
+48,EZY7707,A320,Charles de Gaulle/Roissy (CDG / LFPG),Porto / Oporto (OPO / LPPR),Mon 09:43PM CET,Mon 10:34PM WET,0 days 01:51:00,2h 10m,111,130,19
+49,EZY8686,A320,Amsterdam Schiphol (AMS / EHAM),London Gatwick (LGW / EGKK),Mon 09:43PM CET,Mon 09:28PM GMT,0 days 00:45:00,1h 08m,45,68,23
+50,FAD323,A320,King Abdulaziz Int'l (JED / OEJN),King Fahd Int'l (DMM / OEDF),Mon 11:44PM +03,Tue 01:19AM +03,0 days 01:35:00,1h 35m,95,95,0
+51,HIM873,A320,Kuala Lumpur Int'l (KUL / WMKK),Tribhuvan Int'l (KTM / VNKT),Tue 04:46AM +08,Tue 06:51AM +0545,0 days 04:20:00,4h 20m,260,260,0
+52,IBE3034,A320,Adolfo Suárez Madrid-Barajas (MAD / LEMD),Barcelona Int'l (BCN / LEBL),Mon 09:45PM CET,Mon 10:45PM CET,0 days 01:00:00,1h 18m,60,78,18
+53,ITY78,A320,Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF),Barcelona Int'l (BCN / LEBL),Mon 09:46PM CET,Mon 11:16PM CET,0 days 01:30:00,1h 53m,90,113,23
+54,JBU1252,A320,Southwest Florida Intl (KRSW),Westchester County (KHPN),Mon 03:44PM EST,Mon 06:27PM EST,0 days 02:37:00,3h 09m,157,189,32
+55,JBU1366,A320,Cancun Int'l (CUN / MMUN),Tampa Intl (KTPA),Mon 03:46PM EST,Mon 05:15PM EST,0 days 01:29:00,1h 57m,89,117,28
+56,JBU1680,A320,Fort Lauderdale Intl (KFLL),Reagan National (KDCA),Mon 03:43PM EST,Mon 05:37PM EST,0 days 02:19:00,2h 18m,139,138,-1
+57,LDA7212,A320,Cologne Bonn (CGN / EDDK),Palma de Mallorca (or Son Sant Joan) (PMI / LEPA),Mon 09:45PM CET,Mon 11:47PM CET,0 days 03:26:00,3h 47m,206,227,21
+58,NKS1085,A320,Miami Intl (KMIA),Minneapolis/St Paul Intl (KMSP),Mon 03:42PM EST,Mon 06:09PM CST,0 days 02:55:00,3h 50m,175,230,55
+59,NKS886,A320,Queen Beatrix Int'l (AUA / TNCA),Fort Lauderdale Intl (KFLL),Mon 04:44PM AST,Mon 06:39PM EST,0 days 01:20:00,3h 09m,80,189,109
+60,SKX5138,A320,Rodriguez Ballon Int'l (AQP / SPQU),Jorge Chávez Int'l (LIM / SPJC),Mon 03:46PM -05,Mon 05:06PM -05,0 days 02:05:00,1h 40m,125,100,-25
+61,SWR1254,A320,Zurich (Kloten) (ZRH / LSZH),Stockholm-Arlanda (ARN / ESSA),Mon 09:42PM CET,Mon 11:47PM CET,0 days 01:05:00,2h 24m,65,144,79
+62,SWR962,A320,Zurich (Kloten) (ZRH / LSZH),Berlin-Brandenburg (BER / EDDB),Mon 09:44PM CET,Mon 10:49PM CET,0 days 00:40:00,1h 26m,40,86,46
+63,TAM3070,A320,São Paulo-Congonhas (CGH / SBSP),Afonso Pena Int'l (CWB / SBCT),Mon 05:45PM -03,Mon 06:25PM -03,0 days 00:55:00,0h 35m,55,35,-20
+64,TAM3481,A320,Afonso Pena Int'l (CWB / SBCT),Foz do Iguacu Int'l (Cataratas Int'l) (IGU / SBFI),Mon 05:44PM -03,Mon 06:35PM -03,0 days 02:20:00,2h 35m,140,155,15
+65,TAM3743,A320,Pinto Martins Int'l (FOR / SBFZ),Presidente Juscelino Kubitschek Int'l (BSB / SBBR),Mon 05:42PM -03,Mon 08:02PM -03,0 days 02:53:00,2h 30m,173,150,-23
+66,UAL1245,A320,Salt Lake City Intl (KSLC),Houston Bush Int'ctl (KIAH),Mon 01:44PM MST,Mon 05:37PM CST,0 days 01:05:00,3h 18m,65,198,133
+67,UAL250,A320,Albuquerque Intl Sunport (KABQ),Denver Intl (KDEN),Mon 01:44PM MST,Mon 02:49PM MST,0 days 02:30:00,2h 34m,150,154,4
+68,UAL535,A320,Denver Intl (KDEN),San Jose Int'l (KSJC),Mon 01:46PM MST,Mon 03:16PM PST,0 days 01:24:00,2h 51m,84,171,87
+69,VIV570,A320,Queretaro Intercontinental Airport (QRO / MMQT),San Antonio Intl (KSAT),Mon 02:44PM CST,Mon 04:40PM CST,0 days 01:56:00,2h 06m,116,126,10
+70,AVA5217,A320,Simon Bolivar (SMR / SKSM),El Dorado Int'l (BOG / SKBO),Mon 04:25PM -05,Mon 05:24PM -05,0 days 00:37:00,0h 45m,37,45,8
+71,DLH1410,A320,Frankfurt Int'l (FRA / EDDF),Belgrade Nikola Tesla Int'l (BEG / LYBE),Mon 10:24PM CET,Mon 11:55PM CET,0 days 01:35:00,1h 50m,95,110,15
+72,ITY1783,A320,Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF),Palermo Int'l (Punta Raisi Falcone-Borsellino) (PMO / LICJ),Mon 10:24PM CET,Mon 11:09PM CET,0 days 00:32:00,0h 40m,32,40,8
+73,NKS2047,A320,Orlando Intl (KMCO),Manchester Boston Rgnl (KMHT),Mon 04:24PM EST,Mon 06:58PM EST,0 days 02:35:00,2h 53m,155,173,18
+74,TAP1936,A320,General Humberto Delgado Airport (LIS / LPPT),Porto / Oporto (OPO / LPPR),Mon 09:24PM WET,Mon 10:06PM WET,0 days 00:42:00,0h 55m,42,55,13
+75,AAY2665,A320,Pittsburgh Intl (KPIT),Clearwater Intl (KPIE),Mon 04:24PM EST,Mon 06:35PM EST,0 days 02:02:00,2h 15m,122,135,13
+76,LDA2367,A320,Košice Int'l (KSC / LZKZ),London Stansted (STN / EGSS),Mon 10:24PM CET,Mon 11:22PM GMT,0 days 01:41:00,1h 48m,101,108,7
+77,ANZ418,A320,Wellington Int'l (WLG / NZWN),Auckland (AKL / NZAA),Tue 10:24AM NZDT,Tue 11:16AM NZDT,0 days 00:42:00,0h 58m,42,58,16
+78,GAP2836,A320,Mactan-Cebu Int'l (CEB / RPVM),Manila Int'l (MNL / RPLL),Tue 05:24AM PST,Tue 06:29AM PST,0 days 01:05:00,1h 20m,65,80,15
+79,PGT2206,A320,Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),İzmir Adnan Menderes Int'l (ADB / LTBJ),Tue 12:24AM +03,Tue 01:00AM +03,0 days 00:55:00,1h 10m,55,70,15
+80,TAM4511,A320,Campo Grande Int'l (CGR / SBCG),Presidente Juscelino Kubitschek Int'l (BSB / SBBR),Mon 05:24PM -04,Mon 07:25PM -03,0 days 01:10:00,1h 35m,70,95,25
+81,GAP2557,A320,Manila Int'l (MNL / RPLL),Dipolog (DPL / RPMG),Tue 05:23AM PST,Tue 06:09AM PST,0 days 01:10:00,1h 30m,70,90,20
+82,AAY3187,A320,Punta Gorda (KPGD),Appleton Intl (KATW),Tue 04:10PM EST,Tue 06:09PM CST,0 days 02:32:00,2h 42m,152,162,10
+83,ABY945,A320,Kazan (KZN / UWKD),Sharjah Int'l (SHJ / OMSJ),Wed 12:11AM MSK,Wed 05:51AM +04,0 days 04:40:00,4h 40m,280,280,0
+84,AEE218,A320,Athens Int'l  Eleftherios Venizelos (ATH / LGAV),Rhodes Int'l  Diagoras (RHO / LGRP),Tue 11:10PM EET,Tue 11:59PM EET,0 days 00:25:00,0h 59m,25,59,34
+85,AVA4813,A320,El Dorado Int'l (BOG / SKBO),El Alcaravan (EYP / SKYP),Tue 04:09PM -05,Tue 04:36PM -05,0 days 00:41:00,1h 01m,41,61,20
+86,AVA8518,A320,Matecana Int'l (PEI / SKPE),El Dorado Int'l (BOG / SKBO),Tue 04:13PM -05,Tue 04:51PM -05,0 days 00:38:00,1h 02m,38,62,24
+87,AVA8598,A320,Antonio Narino (PSO / SKPS),El Dorado Int'l (BOG / SKBO),Tue 04:13PM -05,Tue 04:33PM -05,0 days 00:20:00,1h 18m,20,78,58
+88,AVA9205,A320,El Dorado Int'l (BOG / SKBO),Alfonso Bonilla Aragon Int'l (CLO / SKCL),Tue 04:10PM -05,Tue 05:00PM -05,0 days 00:50:00,1h 39m,50,99,49
+89,AVA9547,A320,Rafael Nunez Int'l (CTG / SKCG),El Dorado Int'l (BOG / SKBO),Tue 04:08PM -05,Tue 04:43PM -05,0 days 00:35:00,1h 31m,35,91,56
+90,CEB203,A320,Mactan-Cebu Int'l (CEB / RPVM),Laguindingan Intl (CGY / RPMY),Wed 05:10AM PST,Wed 05:45AM PST,0 days 00:35:00,0h 35m,35,35,0
+91,CEB551,A320,Manila Int'l (MNL / RPLL),Mactan-Cebu Int'l (CEB / RPVM),Wed 05:11AM PST,Wed 06:05AM PST,0 days 00:55:00,1h 04m,55,64,9
+92,DAL1389,A320,Detroit Metro Wayne Co (KDTW),Boston Logan Intl (KBOS),Tue 04:09PM EST,Tue 05:30PM EST,0 days 01:21:00,1h 50m,81,110,29
+93,DAL2050,A320,Hartsfield-Jackson Intl (KATL),Buffalo Niagara Intl (KBUF),Tue 04:08PM EST,Tue 05:36PM EST,0 days 01:28:00,1h 53m,88,113,25
+94,DAL2260,A320,Austin-Bergstrom Intl (KAUS),Harry Reid Intl (KLAS),Tue 03:12PM CST,Tue 03:49PM PST,0 days 02:38:00,3h 01m,158,181,23
+95,EZY2114,A320,Charles de Gaulle/Roissy (CDG / LFPG),Manchester (MAN / EGCC),Tue 10:10PM CET,Tue 10:00PM GMT,0 days 01:00:00,1h 22m,60,82,22
+96,EZY2168,A320,Amsterdam Schiphol (AMS / EHAM),Manchester (MAN / EGCC),Tue 10:11PM CET,Tue 10:05PM GMT,0 days 00:57:00,1h 15m,57,75,18
+97,EZY3302,A320,Amsterdam Schiphol (AMS / EHAM),Edinburgh (EDI / EGPH),Tue 10:13PM CET,Tue 10:16PM GMT,0 days 01:03:00,1h 15m,63,75,12
+98,EZY7652,A320,Adolfo Suárez Madrid-Barajas (MAD / LEMD),General Humberto Delgado Airport (LIS / LPPT),Tue 10:13PM CET,Tue 10:12PM WET,0 days 00:59:00,1h 13m,59,73,14
+99,GAP2203,A320,Manila Int'l (MNL / RPLL),Roxas (RXS / RPVR),Wed 05:09AM PST,Wed 05:30AM PST,0 days 00:21:00,1h 34m,21,94,73
+100,GAP2967,A320,Manila Int'l (MNL / RPLL),Bancasi (Butuan) (BXU / RPME),Wed 05:13AM PST,Wed 06:33AM PST,0 days 01:20:00,1h 52m,80,112,32
+101,IBS3849,A320,Gran Canaria Int'l (LPA / GCLP),Adolfo Suárez Madrid-Barajas (MAD / LEMD),Tue 09:13PM WET,Wed 12:22AM CET,0 days 02:09:00,2h 22m,129,142,13
+102,ITY1603,A320,Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF),Palese Macchie (BRI / LIBD),Tue 10:11PM CET,Tue 11:04PM CET,0 days 00:45:00,1h 07m,45,67,22
+103,JBU1130,A320,Fort Lauderdale Intl (KFLL),Charleston Intl/AFB (KCHS),Tue 04:12PM EST,Tue 05:21PM EST,0 days 01:05:00,1h 30m,65,90,25
+104,JBU1754,A320,Luis Munoz Marin Intl (SJU / TJSJ),Fort Lauderdale Intl (KFLL),Tue 05:09PM AST,Tue 06:33PM EST,0 days 02:43:00,2h 59m,163,179,16
+105,JBU371,A320,LaGuardia (KLGA),Fort Lauderdale Intl (KFLL),Tue 04:10PM EST,Tue 06:35PM EST,0 days 02:58:00,3h 06m,178,186,8
+106,JST403,A320,Gold Coast (OOL / YBCG),Sydney (SYD / YSSY),Wed 07:11AM AEST,Wed 09:21AM AEDT,0 days 00:50:00,1h 20m,50,80,30
+107,JZR228,A320,King Khalid Int'l (RUH / OERK),Kuwait Int'l (KWI / OKKK),Wed 12:11AM +03,Wed 01:01AM +03,0 days 00:50:00,1h 00m,50,60,10
+108,KAC382,A320,Indira Gandhi Int'l (DEL / VIDP),Kuwait Int'l (KWI / OKKK),Wed 02:40AM IST,Wed 04:55AM +03,0 days 04:45:00,4h 55m,285,295,10
+109,LPE2330,A320,Jorge Chávez Int'l (LIM / SPJC),Rodriguez Ballon Int'l (AQP / SPQU),Tue 04:09PM -05,Tue 05:24PM -05,0 days 01:15:00,1h 39m,75,99,24
+110,PIA258,A320,Sharjah Int'l (SHJ / OMSJ),Peshawar Int'l (PEW / OPPS),Wed 01:10AM +04,Wed 04:40AM PKT,0 days 02:30:00,2h 40m,150,160,10
+111,SVA1054,A320,King Abdulaziz Int'l (JED / OEJN),King Khalid Int'l (RUH / OERK),Wed 12:10AM +03,Wed 01:35AM +03,0 days 01:25:00,1h 35m,85,95,10
+112,TAI316,A320,Tocumen Int'l (PTY / MPTO),El Salvador Int'l (SAL / MSLP),Tue 04:09PM EST,Tue 04:33PM CST,0 days 01:24:00,2h 05m,84,125,41
+113,TAM3102,A320,São Paulo-Congonhas (CGH / SBSP),Santa Genoveva (GYN / SBGO),Tue 06:12PM -03,Tue 07:37PM -03,0 days 01:25:00,1h 35m,85,95,10
+114,TAM3631,A320,Deputado Luis Eduardo Magalhaes Int'l (Dois de Julho) (SSA / SBSV),São Paulo-Congonhas (CGH / SBSP),Tue 06:12PM -03,Tue 08:32PM -03,0 days 02:20:00,2h 30m,140,150,10
+115,TAP1549,A320,General Humberto Delgado Airport (LIS / LPPT),Amilcar Cabral Int'l (SID / GVAC),Tue 09:12PM WET,Wed 12:02AM -01,0 days 03:50:00,4h 07m,230,247,17
+116,THA314,A320,Netaji Subhash Chandra Bose Int'l (CCU / VECC),Suvarnabhumi Bangkok Int'l (BKK / VTBS),Wed 02:42AM IST,Wed 06:17AM +07,0 days 02:05:00,2h 15m,125,135,10
+117,UAL1243,A320,Lic. Gustavo Diaz Ordaz Int'l (PVR / MMPR),San Francisco Int'l (KSFO),Tue 03:09PM CST,Tue 05:05PM PST,0 days 03:57:00,4h 26m,237,266,29
+118,VOI135,A320,Xoxocotlan Int'l (OAX / MMOX),Cancun Int'l (CUN / MMUN),Tue 03:12PM CST,Tue 05:55PM EST,0 days 01:43:00,2h 05m,103,125,22
+119,AAL1571,A320,John Glenn Columbus Intl Airport (KCMH),Charlotte/Douglas Intl (KCLT),Tue 04:27PM EST,Tue 05:23PM EST,0 days 00:54:00,1h 25m,54,85,31
+120,AAL1742,A320,General Mariano Escobedo Int'l (MTY / MMMY),Dallas-Fort Worth Intl (KDFW),Tue 03:26PM CST,Tue 04:54PM CST,0 days 01:23:00,1h 43m,83,103,20
+121,AAL2840,A320,Chicago O'Hare Intl (KORD),Philadelphia Intl (KPHL),Tue 03:25PM CST,Tue 05:58PM EST,0 days 01:37:00,1h 49m,97,109,12
+122,ANZ418,A320,Wellington Int'l (WLG / NZWN),Auckland (AKL / NZAA),Wed 10:24AM NZDT,Wed 11:08AM NZDT,0 days 00:39:00,0h 59m,39,59,20
+123,ARE4005,A320,Jose Maria Cordova Int'l (MDE / SKRG),El Dorado Int'l (BOG / SKBO),Tue 04:29PM -05,Tue 05:02PM -05,0 days 00:33:00,0h 37m,33,37,4
+124,ARE4176,A320,El Dorado Int'l (BOG / SKBO),Palonegro (BGA / SKBG),Tue 04:24PM -05,Tue 04:55PM -05,0 days 00:13:00,0h 43m,13,43,30
+125,AUA220,A320,Frankfurt Int'l (FRA / EDDF),Vienna Int'l (Schwechat) (VIE / LOWW),Tue 10:26PM CET,Tue 11:16PM CET,0 days 00:56:00,1h 00m,56,60,4
+126,AVA9552,A320,El Dorado Int'l (BOG / SKBO),Rafael Nunez Int'l (CTG / SKCG),Tue 04:28PM -05,Tue 05:43PM -05,0 days 01:15:00,1h 15m,75,75,0
+127,AVA9776,A320,El Dorado Int'l (BOG / SKBO),Gustavo Rojas Pinilla Int'l (Sesquicentenario) (ADZ / SKSP),Tue 04:29PM -05,Tue 05:57PM -05,0 days 01:52:00,1h 54m,112,114,2
+128,AZU2700,A320,Viracopos Int'l (VCP / SBKP),Campo Grande Int'l (CGR / SBCG),Tue 06:25PM -03,Tue 06:46PM -04,0 days 01:18:00,1h 40m,78,100,22
+129,AZU4555,A320,Sinop (OPS / SBSI),Viracopos Int'l (VCP / SBKP),Tue 05:24PM -04,Tue 08:28PM -03,0 days 01:57:00,2h 20m,117,140,23
+130,CRK764,A320,Suvarnabhumi Bangkok Int'l (BKK / VTBS),Hong Kong Int'l (HKG / VHHH),Wed 04:24AM +07,Wed 07:31AM HKT,0 days 02:25:00,2h 25m,145,145,0
+131,DAL715,A320,Minneapolis/St Paul Intl (KMSP),Chicago O'Hare Intl (KORD),Tue 03:26PM CST,Tue 04:21PM CST,0 days 00:55:00,1h 10m,55,70,15
+132,DLH1682,A320,Munich Int'l (MUC / EDDM),Budapest Ferenc Liszt International Airport (BUD / LHBP),Tue 10:26PM CET,Tue 11:15PM CET,0 days 00:55:00,0h 55m,55,55,0
+133,EZY318,A320,London Stansted (STN / EGSS),Edinburgh (EDI / EGPH),Tue 09:25PM GMT,Tue 10:18PM GMT,0 days 00:48:00,1h 15m,48,75,27
+134,EZY340,A320,Birmingham Int'l (BHX / EGBB),Edinburgh (EDI / EGPH),Tue 09:24PM GMT,Tue 10:19PM GMT,0 days 00:39:00,1h 05m,39,65,26
+135,EZY7756,A320,Madeira Int'l (Funchal) (FNC / LPMA),Porto / Oporto (OPO / LPPR),Tue 09:28PM WET,Tue 10:59PM WET,0 days 01:31:00,2h 00m,91,120,29
+136,FAD764,A320,Cairo Int'l (CAI / HECA),King Abdulaziz Int'l (JED / OEJN),Tue 11:27PM EET,Wed 02:05AM +03,0 days 01:55:00,1h 55m,115,115,0
+137,GXA6135,A320,Boeing Field Intl (KBFI),El Paso Intl (KELP),Tue 01:29PM PST,Tue 05:15PM MST,0 days 02:45:00,2h 52m,165,172,7
+138,IBE442,A320,Adolfo Suárez Madrid-Barajas (MAD / LEMD),Bilbao (BIO / LEBB),Tue 10:28PM CET,Tue 11:13PM CET,0 days 00:45:00,0h 45m,45,45,0
+139,IGO1027,A320,Rajiv Gandhi Int'l (HYD / VOHS),Singapore Changi (SIN / WSSS),Wed 02:55AM IST,Wed 09:34AM +08,0 days 04:30:00,4h 20m,270,260,-10
+140,IYE611,A320,Cairo Int'l (CAI / HECA),Aden Int'l (ADE / OYAA),Tue 11:24PM EET,Wed 03:34AM +03,0 days 03:10:00,3h 10m,190,190,0
+141,JST759,A320,Brisbane (BNE / YBBN),Hobart Int'l (HBA / YMHB),Wed 07:25AM AEST,Wed 10:44AM AEDT,0 days 02:19:00,2h 20m,139,140,1
+142,JZR735,A320,Kuwait Int'l (KWI / OKKK),Cairo Int'l (CAI / HECA),Wed 12:29AM +03,Wed 02:14AM EET,0 days 02:45:00,2h 45m,165,165,0
+143,LAP1301,A320,Silvio Pettirossi Int'l (ASU / SGAS),São Paulo-Guarulhos Int'l (GRU / SBGR),Tue 06:25PM -03,Tue 08:15PM -03,0 days 01:50:00,1h 50m,110,110,0
+144,LPE2145,A320,Jorge Chávez Int'l (LIM / SPJC),Capitan FAP Carlos Martinez de Pinillos (TRU / SPRU),Tue 04:26PM -05,Tue 05:21PM -05,0 days 00:55:00,0h 55m,55,55,0
+145,LPE2411,A320,Jose Marti Int'l (HAV / MUHA),Jorge Chávez Int'l (LIM / SPJC),Tue 04:28PM CST,Tue 09:30PM -05,0 days 05:05:00,5h 05m,305,305,0
+146,NKS2090,A320,Fort Lauderdale Intl (KFLL),Detroit Metro Wayne Co (KDTW),Tue 04:24PM EST,Tue 06:50PM EST,0 days 02:35:00,2h 49m,155,169,14
+147,ROU1872,A320,Guanacaste (LIR / MRLB),Toronto Pearson Int'l (CYYZ),Tue 03:27PM CST,Tue 09:10PM EST,0 days 05:05:00,5h 25m,305,325,20
+148,SIF714,A320,Jinnah Int'l (KHI / OPKC),King Abdulaziz Int'l (JED / OEJN),Wed 02:26AM PKT,Wed 04:26AM +03,0 days 04:00:00,3h 54m,240,234,-6
+149,SVA1002,A320,King Abdulaziz Int'l (JED / OEJN),King Khalid Int'l (RUH / OERK),Wed 12:24AM +03,Wed 01:48AM +03,0 days 01:25:00,1h 54m,85,114,29
+150,TAI539,A320,Ramon Villeda Morales Int'l (SAP / MHLM),El Salvador Int'l (SAL / MSLP),Tue 03:26PM CST,Tue 03:46PM CST,0 days 00:20:00,0h 40m,20,40,20
+151,UAL1095,A320,Roberts Fld (KRDM),Denver Intl (KDEN),Tue 01:25PM PST,Tue 04:16PM MST,0 days 01:55:00,1h 42m,115,102,-13
+152,VIV2134,A320,Cancun Int'l (CUN / MMUN),Don Miguel Hidalgo y Costilla Int'l (GDL / MMGL),Tue 04:29PM EST,Tue 06:19PM CST,0 days 02:50:00,2h 40m,170,160,-10
+153,VIV9066,A320,Del Bajio Guanajuato Int'l (BJX / MMLO),Abraham Gonzalez Int'l (CJS / MMCS),Tue 03:29PM CST,Tue 05:19PM CST,0 days 01:50:00,1h 50m,110,110,0
+154,VLG3066,A320,Malaga (AGP / LEMG),Gran Canaria Int'l (LPA / GCLP),Tue 10:26PM CET,Tue 11:22PM WET,0 days 02:05:00,2h 05m,125,125,0
+155,AAL1571,A320,John Glenn Columbus Intl Airport (KCMH),Charlotte/Douglas Intl (KCLT),Tue 04:27PM EST,Tue 05:23PM EST,0 days 00:54:00,1h 25m,54,85,31
+156,TAM3760,A320,Presidente Juscelino Kubitschek Int'l (BSB / SBBR),Zumbi dos Palmares (Campo dos Palmares) (MCZ / SBMO),Tue 06:16PM -03,Tue 08:25PM -03,0 days 02:00:00,2h 15m,120,135,15
+157,EZY3530,A320,Palese Macchie (BRI / LIBD),Malpensa Int'l (MXP / LIMC),Tue 10:16PM CET,Tue 11:37PM CET,0 days 01:19:00,1h 35m,79,95,16
+158,NKS1148,A320,Orlando Intl (KMCO),Charlotte/Douglas Intl (KCLT),Tue 04:16PM EST,Tue 05:23PM EST,0 days 01:14:00,1h 25m,74,85,11
+159,ANZ417,A320,Auckland (AKL / NZAA),Wellington Int'l (WLG / NZWN),Wed 10:16AM NZDT,Wed 11:06AM NZDT,0 days 00:59:00,1h 10m,59,70,11
+160,WMT3762,A320,Bologna (Guglielmo Marconi) (BLQ / LIPE),Craiova (CRA / LRCV),Tue 10:17PM CET,Wed 12:55AM EET,0 days 01:40:00,2h 05m,100,125,25
+161,AEE121,A320,"Thessaloniki Int'l, Makedonia (SKG / LGTS)","Athens Int'l, Eleftherios Venizelos (ATH / LGAV)",Wed 06:13PM EET,Wed 06:50PM EET,0 days 00:36:00,0h 47m,36,47,11
+162,AFR1185,A320,Tunis-Carthage Int'l (TUN / DTTA),Charles de Gaulle/Roissy (CDG / LFPG),Wed 05:13PM CET,Wed 07:19PM CET,0 days 02:19:00,2h 35m,139,155,16
+163,ALK172,A320,Bengaluru Int'l (BLR / VOBL),Bandaranaike Int'l (CMB / VCBI),Wed 09:45PM IST,Wed 10:55PM +0530,0 days 01:10:00,1h 25m,70,85,15
+164,AVA8590,A320,El Dorado Int'l (BOG / SKBO),Almirante Padilla (RCH / SKRH),Wed 11:13AM -05,Wed 12:29PM -05,0 days 01:16:00,1h 36m,76,96,20
+165,AWQ109,A320,Penang Int'l (PEN / WMKP),Kuala Namu International (KNO / WIMM),Thu 12:13AM +08,Wed 11:43PM WIB,0 days 00:30:00,0h 30m,30,30,0
+166,AZU2835,A320,São Paulo-Guarulhos Int'l (GRU / SBGR),Marechal Rondon (CGB / SBCY),Wed 01:12PM -03,Wed 02:03PM -04,0 days 01:51:00,2h 14m,111,134,23
+167,BAW368,A320,London Heathrow (LHR / EGLL),Marseille Provence (MRS / LFML),Wed 04:14PM GMT,Wed 06:49PM CET,0 days 01:35:00,2h 03m,95,123,28
+168,BAW866,A320,London Heathrow (LHR / EGLL),Budapest Ferenc Liszt International Airport (BUD / LHBP),Wed 04:13PM GMT,Wed 07:23PM CET,0 days 02:23:00,2h 42m,143,162,19
+169,BAW905,A320,Frankfurt Int'l (FRA / EDDF),London Heathrow (LHR / EGLL),Wed 05:13PM CET,Wed 05:16PM GMT,0 days 01:14:00,1h 31m,74,91,17
+170,BNL103,A320,Benina Int'l (BEN / HLLB),Tunis-Carthage Int'l (TUN / DTTA),Wed 06:14PM EET,Wed 06:44PM CET,0 days 01:30:00,1h 30m,90,90,0
+171,CES2830,A320,Shenzhen Bao'an Int'l (SZX / ZGSZ),Nanjing Lukou Int'l (NKG / ZSNJ),Thu 12:13AM CST,Thu 01:42AM CST,0 days 01:29:00,1h 51m,89,111,22
+172,DLH1679,A320,Budapest Ferenc Liszt International Airport (BUD / LHBP),Munich Int'l (MUC / EDDM),Wed 05:14PM CET,Wed 06:09PM CET,0 days 00:55:00,1h 10m,55,70,15
+173,EJU1746,A320,Brussels (BRU / EBBR),Nice Cote d'Azur (NCE / LFMN),Wed 05:14PM CET,Wed 06:39PM CET,0 days 01:25:00,1h 31m,85,91,6
+174,EJU7666,A320,Madeira Int'l (Funchal) (FNC / LPMA),General Humberto Delgado Airport (LIS / LPPT),Wed 04:13PM WET,Wed 05:27PM WET,0 days 01:14:00,1h 26m,74,86,12
+175,EZY1568,A320,Budapest Ferenc Liszt International Airport (BUD / LHBP),Geneva Cointrin Int'l (GVA / LSGG),Wed 05:13PM CET,Wed 06:40PM CET,0 days 01:27:00,1h 11m,87,71,-16
+176,EZY533,A320,Liverpool John Lennon (LPL / EGGP),George Best Belfast City (BHD / EGAC),Wed 04:13PM GMT,Wed 04:46PM GMT,0 days 00:32:00,0h 47m,32,47,15
+177,EZY8404,A320,Charles de Gaulle/Roissy (CDG / LFPG),London Gatwick (LGW / EGKK),Wed 05:12PM CET,Wed 04:42PM GMT,0 days 00:30:00,0h 40m,30,40,10
+178,GBB212,A320,King Shaka Int'l (DUR / FALE),OR Tambo Int'l (JNB / FAOR),Wed 06:13PM SAST,Wed 07:00PM SAST,0 days 00:45:00,1h 05m,45,65,20
+179,JBU953,A320,John F Kennedy Intl (KJFK),Palm Beach Intl (KPBI),Wed 11:12AM EST,Wed 01:48PM EST,0 days 02:51:00,2h 37m,171,157,-14
+180,NKS3666,A320,New Orleans Intl (KMSY),Detroit Metro Wayne Co (KDTW),Wed 10:12AM CST,Wed 01:02PM EST,0 days 02:01:00,2h 22m,121,142,21
+181,SAA422,A320,Port Elizabeth (PLZ / FAPE),OR Tambo Int'l (JNB / FAOR),Wed 06:15PM SAST,Wed 07:30PM SAST,0 days 01:15:00,1h 34m,75,94,19
+182,UAL2180,A320,Los Cabos Int'l (SJD / MMSD),Houston Bush Int'ctl (KIAH),Wed 09:14AM MST,Wed 12:27PM CST,0 days 02:13:00,2h 33m,133,153,20
+183,VTI864,A320,Bengaluru Int'l (BLR / VOBL),Chatrapati Shivaji Int'l (BOM / VABB),Wed 09:43PM IST,Wed 10:58PM IST,0 days 01:15:00,1h 35m,75,95,20
+184,WMT4809,A320,Rinas Mother Teresa (TIA / LATI),Treviso (Sant'Angelo) (TSF / LIPH),Wed 05:15PM CET,Wed 06:40PM CET,0 days 01:25:00,1h 25m,85,85,0
+185,AAL2325,A320,Charlotte/Douglas Intl (KCLT),Pensacola Intl (KPNS),Wed 11:40AM EST,Wed 11:56AM CST,0 days 01:16:00,1h 42m,76,102,26
+186,AAY948,A320,General Downing - Peoria Intl (KPIA),Punta Gorda (KPGD),Wed 10:40AM CST,Wed 01:58PM EST,0 days 02:18:00,2h 49m,138,169,31
+187,AIQ787,A320,Macau Int'l (MFM / VMMC),Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),Thu 12:37AM CST,Thu 02:12AM +07,0 days 02:35:00,2h 35m,155,155,0
+188,ARE4269,A320,Gustavo Rojas Pinilla Int'l (Sesquicentenario) (ADZ / SKSP),El Dorado Int'l (BOG / SKBO),Wed 11:39AM -05,Wed 01:18PM -05,0 days 01:42:00,2h 02m,102,122,20
+189,AUA115,A320,Vienna Int'l (Schwechat) (VIE / LOWW),Munich Int'l (MUC / EDDM),Wed 05:39PM CET,Wed 06:19PM CET,0 days 00:40:00,1h 00m,40,60,20
+190,AUA304,A320,Copenhagen (CPH / EKCH),Vienna Int'l (Schwechat) (VIE / LOWW),Wed 05:40PM CET,Wed 07:05PM CET,0 days 01:25:00,1h 52m,85,112,27
+191,AUA375,A320,Vienna Int'l (Schwechat) (VIE / LOWW),Amsterdam Schiphol (AMS / EHAM),Wed 05:40PM CET,Wed 07:15PM CET,0 days 01:35:00,1h 45m,95,105,10
+192,AVA50,A320,Jorge Chávez Int'l (LIM / SPJC),El Dorado Int'l (BOG / SKBO),Wed 11:40AM -05,Wed 01:43PM -05,0 days 02:03:00,3h 26m,123,206,83
+193,AVA8515,A320,El Dorado Int'l (BOG / SKBO),Matecana Int'l (PEI / SKPE),Wed 11:37AM -05,Wed 11:53AM -05,0 days 00:39:00,0h 59m,39,59,20
+194,AVA9481,A320,Palonegro (BGA / SKBG),El Dorado Int'l (BOG / SKBO),Wed 11:37AM -05,Wed 12:22PM -05,0 days 00:45:00,1h 06m,45,66,21
+195,BAW480,A320,London Heathrow (LHR / EGLL),Barcelona Int'l (BCN / LEBL),Wed 04:38PM GMT,Wed 07:14PM CET,0 days 01:54:00,2h 08m,114,128,14
+196,CSZ9005,A320,Shenzhen Bao'an Int'l (SZX / ZGSZ),Suvarnabhumi Bangkok Int'l (BKK / VTBS),Thu 12:39AM CST,Thu 02:11AM +07,0 days 02:32:00,2h 34m,152,154,2
+197,DAL1078,A320,Minneapolis/St Paul Intl (KMSP),Valley Intl (KHRL),Wed 10:38AM CST,Wed 01:24PM CST,0 days 02:46:00,3h 09m,166,189,23
+198,DAL1626,A320,Minneapolis/St Paul Intl (KMSP),New Orleans Intl (KMSY),Wed 10:37AM CST,Wed 12:44PM CST,0 days 02:12:00,2h 34m,132,154,22
+199,DAL2363,A320,Dallas-Fort Worth Intl (KDFW),Hartsfield-Jackson Intl (KATL),Wed 10:38AM CST,Wed 01:13PM EST,0 days 01:35:00,2h 10m,95,130,35
+200,DLH84,A320,Frankfurt Int'l (FRA / EDDF),Dusseldorf Int'l (DUS / EDDL),Wed 05:38PM CET,Wed 06:03PM CET,0 days 00:25:00,0h 40m,25,40,15
+201,EJU3517,A320,Malpensa Int'l (MXP / LIMC),Casale (BDS / LIBR),Wed 05:39PM CET,Wed 06:55PM CET,0 days 01:16:00,1h 26m,76,86,10
+202,ETD283,A320,Cochin Int'l (Kochi Int'l) (COK / VOCI),Abu Dhabi Int'l (AUH / OMAA),Wed 10:09PM IST,Thu 12:32AM +04,0 days 03:53:00,4h 14m,233,254,21
+203,EZS1465,A320,Geneva Cointrin Int'l (GVA / LSGG),General Humberto Delgado Airport (LIS / LPPT),Wed 05:41PM CET,Wed 06:46PM WET,0 days 02:05:00,2h 15m,125,135,10
+204,EZY4057,A320,Marco Polo Int'l (Marco Polo Venice) (VCE / LIPZ),Bristol Int'l (BRS / EGGD),Wed 05:38PM CET,Wed 06:27PM GMT,0 days 01:49:00,1h 59m,109,119,10
+205,EZY821,A320,London Gatwick (LGW / EGKK),Belfast Int'l (BFS / EGAA),Wed 04:38PM GMT,Wed 05:39PM GMT,0 days 01:01:00,1h 18m,61,78,17
+206,GFA63,A320,Thiruvananthapuram Int'l (TRV / VOTV),Bahrain Int'l (BAH / OBBI),Wed 10:10PM IST,Thu 12:05AM +03,0 days 04:25:00,4h 50m,265,290,25
+207,GLG1682,A320,Jose Joaquin de Olmedo Int'l (GYE / SEGU),San Cristobal (SCY / SEST),Wed 11:39AM -05,Wed 12:10PM -06,0 days 01:31:00,1h 52m,91,112,21
+208,IAD1132,A320,Bengaluru Int'l (BLR / VOBL),Cochin Int'l (Kochi Int'l) (COK / VOCI),Wed 10:08PM IST,Wed 10:53PM IST,0 days 00:45:00,0h 55m,45,55,10
+209,ITY1733,A320,Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF),Catania-Fontanarossa Airport (CTA / LICC),Wed 05:40PM CET,Wed 06:35PM CET,0 days 00:55:00,1h 20m,55,80,25
+210,JBU1135,A320,Cyril E King (STT / TIST),Luis Munoz Marin Intl (SJU / TJSJ),Wed 12:39PM AST,Wed 01:18PM AST,0 days 00:39:00,1h 00m,39,60,21
+211,MSC469,A320,Cairo Int'l (CAI / HECA),King Khalid Int'l (RUH / OERK),Wed 06:38PM EET,Wed 10:03PM +03,0 days 02:25:00,2h 35m,145,155,10
+212,NKS266,A320,Los Angeles Intl (KLAX),Philadelphia Intl (KPHL),Wed 08:39AM PST,Wed 04:07PM EST,0 days 04:33:00,4h 53m,273,293,20
+213,NKS286,A320,Cancun Int'l (CUN / MMUN),Detroit Metro Wayne Co (KDTW),Wed 11:38AM EST,Wed 02:40PM EST,0 days 03:14:00,3h 35m,194,215,21
+214,PIC6523,A320,Tan Son Nhat Int'l (SGN / VVTS),Phu Quoc International (PQC / VVPQ),Wed 11:39PM +07,Thu 12:24AM +07,0 days 00:45:00,0h 55m,45,55,10
+215,TAM3650,A320,São Paulo-Congonhas (CGH / SBSP),Goiabeiras (VIX / SBVT),Wed 01:39PM -03,Wed 02:49PM -03,0 days 01:10:00,1h 20m,70,80,10
+216,TAP436,A320,General Humberto Delgado Airport (LIS / LPPT),Paris Orly (ORY / LFPO),Wed 04:38PM WET,Wed 07:48PM CET,0 days 02:10:00,2h 23m,130,143,13
+217,VIV112,A320,Lic. Benito Juarez Int'l (MEX / MMMX),Harry Reid Intl (KLAS),Wed 10:37AM CST,Wed 12:25PM PST,0 days 03:45:00,3h 58m,225,238,13
+218,VIV3144,A320,Don Miguel Hidalgo y Costilla Int'l (GDL / MMGL),Angel Albino Corzo Int'l (TGZ / MMTG),Wed 10:38AM CST,Wed 12:18PM CST,0 days 01:40:00,1h 57m,100,117,17
+219,VLG8472,A320,Valencia (VLC / LEVC),London Gatwick (LGW / EGKK),Wed 05:41PM CET,Wed 06:51PM GMT,0 days 02:10:00,2h 20m,130,140,10
+220,VTI565,A320,Chatrapati Shivaji Int'l (BOM / VABB),Jaipur (Sanganer) (JAI / VIJP),Wed 10:08PM IST,Wed 11:43PM IST,0 days 01:35:00,2h 02m,95,122,27
+221,WMT3771,A320,Sibiu Int'l (SBZ / LRSB),London Luton (LTN / EGGW),Wed 06:38PM EET,Wed 07:35PM GMT,0 days 02:50:00,2h 57m,170,177,7
+222,WZZ4377,A320,Sofia Airport (SOF / LBSF),Copenhagen (CPH / EKCH),Wed 06:40PM EET,Wed 08:20PM CET,0 days 02:40:00,2h 45m,160,165,5
+223,EZY8407,A320,London Gatwick (LGW / EGKK),Charles de Gaulle/Roissy (CDG / LFPG),Wed 04:58PM GMT,Wed 06:46PM CET,0 days 00:48:00,1h 15m,48,75,27
+224,FAD143,A320,King Khalid Int'l (RUH / OERK),King Abdulaziz Int'l (JED / OEJN),Wed 07:56PM +03,Wed 09:31PM +03,0 days 01:35:00,1h 35m,95,95,0
+225,FAD508,A320,Dubai Int'l (DXB / OMDB),King Khalid Int'l (RUH / OERK),Wed 08:56PM +04,Wed 09:35PM +03,0 days 01:35:00,1h 35m,95,95,0
+226,FIN456,A320,Oulu (OUL / EFOU),Helsinki-Vantaa (HEL / EFHK),Wed 06:56PM EET,Wed 07:37PM EET,0 days 00:45:00,0h 45m,45,45,0
+227,HKE765,A320,Phuket Int'l (HKT / VTSP),Hong Kong Int'l (HKG / VHHH),Wed 11:56PM +07,Thu 03:49AM HKT,0 days 03:05:00,3h 05m,185,185,0
+228,IAD558,A320,Bengaluru Int'l (BLR / VOBL),Netaji Subhash Chandra Bose Int'l (CCU / VECC),Wed 10:27PM IST,Thu 12:22AM IST,0 days 01:55:00,2h 10m,115,130,15
+229,LBT613,A320,Bologna (Guglielmo Marconi) (BLQ / LIPE),Tunis-Carthage Int'l (TUN / DTTA),Wed 05:59PM CET,Wed 07:19PM CET,0 days 01:20:00,1h 26m,80,86,6
+230,LPE2111,A320,Jorge Chávez Int'l (LIM / SPJC),Rodriguez Ballon Int'l (AQP / SPQU),Wed 11:57AM -05,Wed 01:12PM -05,0 days 01:15:00,1h 15m,75,75,0
+231,LPE2320,A320,Subteniente FAP Alejandro Velasco Astete Int'l (CUZ / SPZO),Padre Jose de Aldamiz Int'l (PEM / SPTU),Wed 11:58AM -05,Wed 12:35PM -05,0 days 00:40:00,0h 47m,40,47,7
+232,NKS1619,A320,Pittsburgh Intl (KPIT),Orlando Intl (KMCO),Wed 11:58AM EST,Wed 01:58PM EST,0 days 02:00:00,2h 06m,120,126,6
+233,QTR630,A320,Hamad Int'l (DOH / OTHH),Sialkot Int'l (SKT / OPST),Wed 07:59PM +03,Thu 01:14AM PKT,0 days 03:15:00,3h 10m,195,190,-5
+234,SAS1020,A320,Stockholm-Arlanda (ARN / ESSA),Skelleftea (SFT / ESNS),Wed 05:58PM CET,Wed 06:48PM CET,0 days 00:50:00,0h 50m,50,50,0
+235,TAM3927,A320,Afonso Pena Int'l (CWB / SBCT),São Paulo-Congonhas (CGH / SBSP),Wed 01:58PM -03,Wed 02:43PM -03,0 days 00:45:00,0h 45m,45,45,0
+236,TAP455,A320,Paris Orly (ORY / LFPO),Porto / Oporto (OPO / LPPR),Wed 05:57PM CET,Wed 06:50PM WET,0 days 01:53:00,1h 50m,113,110,-3
+237,THY1845,A320,Istanbul Airport (IST / LTFM),"Athens Int'l, Eleftherios Venizelos (ATH / LGAV)",Wed 07:57PM +03,Wed 08:05PM EET,0 days 01:10:00,1h 10m,70,70,0
+238,THY2612,A320,Istanbul Airport (IST / LTFM),Diyarbakir (DIY / LTCC),Wed 07:58PM +03,Wed 09:33PM +03,0 days 01:35:00,1h 35m,95,95,0
+239,UAL2120,A320,Denver Intl (KDEN),New Orleans Intl (KMSY),Wed 09:56AM MST,Wed 12:59PM CST,0 days 02:03:00,2h 39m,123,159,36
+240,VLG3916,A320,Barcelona Int'l (BCN / LEBL),Palma de Mallorca (or Son Sant Joan) (PMI / LEPA),Wed 05:58PM CET,Wed 06:32PM CET,0 days 00:33:00,0h 30m,33,30,-3
+241,WAL522,A320,Miami Intl (KMIA),Ignacio Agramonte Int'l (CMW / MUCM),Wed 11:57AM EST,Wed 12:47PM CST,0 days 00:50:00,0h 50m,50,50,0
+242,AFL1234,A320,Sheremetyevo Int'l (SVO / UUEE),Ufa Int'l (UFA / UWUU),Thu 11:54AM MSK,Thu 03:15PM +05,0 days 01:36:00,1h 31m,96,91,-5
+243,AFL1386,A320,Near Nizhny Novgorod,,Thu 11:53AM MSK,,,0h 05m,,5,
+244,AIQ3017,A320,Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),Phuket Int'l (HKT / VTSP),Thu 03:53PM +07,Thu 05:08PM +07,0 days 01:15:00,1h 20m,75,80,5
+245,AXM239,A320,Kota Kinabalu Int'l (BKI / WBKK),Hong Kong Int'l (HKG / VHHH),Thu 04:54PM +08,Thu 07:44PM HKT,0 days 02:50:00,2h 51m,170,171,1
+246,AXM385,A320,Jakarta-Soekarno-Hatta Int'l (CGK / WIII),Kuala Lumpur Int'l (KUL / WMKK),Thu 03:55PM WIB,Thu 06:45PM +08,0 days 01:50:00,1h 50m,110,110,0
+247,AXM5112,A320,Kuala Lumpur Int'l (KUL / WMKK),Kota Kinabalu Int'l (BKI / WBKK),Thu 04:54PM +08,Thu 07:09PM +08,0 days 02:15:00,2h 15m,135,135,0
+248,CSC6796,A320,Shenzhen Bao'an Int'l (SZX / ZGSZ),Chengdu Tianfu Int'l (TFU / ZUTF),Thu 04:54PM CST,Thu 07:06PM CST,0 days 02:12:00,2h 17m,132,137,5
+249,CTV195,A320,Ngurah Rai/Bali Intl (DPS / WADD),Halim Perdanakusuma Int'l (HLP / WIHH),Thu 04:55PM WITA,Thu 05:25PM WIB,0 days 01:30:00,2h 00m,90,120,30
+250,EWG7581,A320,Palma de Mallorca (or Son Sant Joan) (PMI / LEPA),Hamburg (HAM / EDDH),Thu 09:54AM CET,Thu 12:24PM CET,0 days 02:30:00,2h 40m,150,160,10
+251,EZY2184,A320,Geneva Cointrin Int'l (GVA / LSGG),Manchester (MAN / EGCC),Thu 09:53AM CET,Thu 10:05AM GMT,0 days 01:12:00,1h 42m,72,102,30
+252,EZY322,A320,Bristol Int'l (BRS / EGGD),Edinburgh (EDI / EGPH),Thu 08:53AM GMT,Thu 09:29AM GMT,0 days 00:36:00,0h 56m,36,56,20
+253,OTC7771,A320,Changsha Huanghua Int'l (CSX / ZGHA),Chengdu Tianfu Int'l (TFU / ZUTF),Thu 04:53PM CST,Thu 06:34PM CST,0 days 01:41:00,2h 05m,101,125,24
+254,PGT1261,A320,Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),Rotterdam (RTM / EHRD),Thu 11:55AM +03,Thu 01:15PM CET,0 days 03:30:00,3h 40m,210,220,10
+255,VTI691,A320,Indira Gandhi Int'l (DEL / VIDP),Sri Guru Ram Dass Jee International Airport (ATQ / VIAR),Thu 02:24PM IST,Thu 03:14PM IST,0 days 00:50:00,1h 11m,50,71,21
+256,VTI819,A320,Indira Gandhi Int'l (DEL / VIDP),Bengaluru Int'l (BLR / VOBL),Thu 02:23PM IST,Thu 04:46PM IST,0 days 02:25:00,2h 37m,145,157,12
+257,XLE903,A320,Murtala Mohammed Int'l (LOS / DNMM),,Thu 09:53AM WAT,,,1h 50m,,110,
+258,ABY624,A320,Sharjah Int'l (SHJ / OMSJ),Cairo Int'l (CAI / HECA),Thu 01:22PM +04,Thu 03:12PM EET,0 days 03:50:00,3h 53m,230,233,3
+259,ADY730,A320,Abu Dhabi Int'l (AUH / OMAA),Heydar Aliyev Int'l (GYD / UBBB),Thu 01:23PM +04,Thu 04:13PM +04,0 days 02:50:00,2h 50m,170,170,0
+260,AFR7304,A320,Charles de Gaulle/Roissy (CDG / LFPG),Nice Cote d'Azur (NCE / LFMN),Thu 10:22AM CET,Thu 11:33AM CET,0 days 01:11:00,1h 36m,71,96,25
+261,APG777,A320,Manila Int'l (MNL / RPLL),Mactan-Cebu Int'l (CEB / RPVM),Thu 05:22PM PST,Thu 06:27PM PST,0 days 01:05:00,1h 05m,65,65,0
+262,ARE4055,A320,El Dorado Int'l (BOG / SKBO),Alfonso Bonilla Aragon Int'l (CLO / SKCL),Thu 04:22AM -05,Thu 05:07AM -05,0 days 00:45:00,1h 05m,45,65,20
+263,AWQ325,A320,Kuala Lumpur Int'l (KUL / WMKK),Juanda Int'l (SUB / WARR),Thu 05:22PM +08,Thu 06:52PM WIB,0 days 02:30:00,2h 30m,150,150,0
+264,AXM6085,A320,Sultan Azlan Shah (IPH / WMKI),Senai Int'l (Sultan Ismail Int'l) (JHB / WMKJ),Thu 05:22PM +08,Thu 06:07PM +08,0 days 00:45:00,0h 45m,45,45,0
+265,VLG8722,A320,Barcelona Int'l (BCN / LEBL),Dublin Int'l (DUB / EIDW),Thu 01:10PM CET,Thu 02:38PM GMT,0 days 02:28:00,2h 48m,148,168,20
+266,CTV978,A320,Jakarta-Soekarno-Hatta Int'l (CGK / WIII),Kuala Namu International (KNO / WIMM),Thu 04:22PM WIB,Thu 06:22PM WIB,0 days 02:00:00,2h 10m,120,130,10
+267,EZY8638,A320,Munich Int'l (MUC / EDDM),London Gatwick (LGW / EGKK),Thu 10:22AM CET,Thu 10:39AM GMT,0 days 01:17:00,1h 47m,77,107,30
+268,JJP517,A320,Narita Int'l (NRT / RJAA),Fukuoka (FUK / RJFF),Thu 06:22PM JST,Thu 08:27PM JST,0 days 02:05:00,2h 15m,125,135,10
+269,LAO303,A320,Wattay Int'l (VTE / VLVT),Pakse (PKZ / VLPS),Thu 04:23PM +07,Thu 05:18PM +07,0 days 00:55:00,0h 55m,55,55,0
+270,NWK1610,A320,Perth Int'l (PER / YPPH),Kalgoorlie-Boulder (KGI / YPKG),Thu 05:23PM AWST,Thu 06:09PM AWST,0 days 00:36:00,1h 10m,36,70,34
+271,TAM3056,A320,São Paulo-Congonhas (CGH / SBSP),Afonso Pena Int'l (CWB / SBCT),Thu 06:23AM -03,Thu 07:08AM -03,0 days 00:45:00,0h 57m,45,57,12
+272,VJC1831,A320,Tan Son Nhat Int'l (SGN / VVTS),Wattay Int'l (VTE / VLVT),Thu 04:22PM +07,Thu 05:47PM +07,0 days 01:25:00,1h 23m,85,83,-2
+273,ANA1272,A320,New Chitose (CTS / RJCC),Hiroshima (HIJ / RJOA),Thu 06:56PM JST,Thu 08:51PM JST,0 days 01:55:00,1h 55m,115,115,0
+274,ANA387,A320,Tokyo Int'l (Haneda) (HND / RJTT),Miho Airfield (Yonago) (YGJ / RJOH),Thu 06:57PM JST,Thu 08:02PM JST,0 days 01:05:00,1h 05m,65,65,0
+275,AVA9653,A320,Jose Maria Cordova Int'l (MDE / SKRG),El Dorado Int'l (BOG / SKBO),Thu 04:56AM -05,Thu 05:30AM -05,0 days 00:34:00,0h 43m,34,43,9
+276,AVA9785,A320,Rafael Nunez Int'l (CTG / SKCG),El Dorado Int'l (BOG / SKBO),Thu 04:56AM -05,Thu 05:18AM -05,0 days 00:22:00,0h 57m,22,57,35
+277,AWQ508,A320,Ngurah Rai/Bali Intl (DPS / WADD),Singapore Changi (SIN / WSSS),Thu 05:57PM WITA,Thu 08:27PM +08,0 days 02:30:00,2h 20m,150,140,-10
+278,AWQ647,A320,Komodo (LBJ / WATO),Ngurah Rai/Bali Intl (DPS / WADD),Thu 05:57PM WITA,Thu 06:47PM WITA,0 days 00:50:00,0h 50m,50,50,0
+279,AXM1771,A320,Kuching Int'l (KCH / WBGG),Singapore Changi (SIN / WSSS),Thu 05:56PM +08,Thu 07:21PM +08,0 days 01:25:00,1h 15m,85,75,-10
+280,AXM5412,A320,Senai Int'l (Sultan Ismail Int'l) (JHB / WMKJ),Kuching Int'l (KCH / WBGG),Thu 05:57PM +08,Thu 07:02PM +08,0 days 01:05:00,1h 05m,65,65,0
+281,AXM6183,A320,Miri (MYY / WBGR),Kuching Int'l (KCH / WBGG),Thu 05:57PM +08,Thu 06:37PM +08,0 days 00:40:00,0h 48m,40,48,8
+282,BEL3751,A320,Brussels (BRU / EBBR),Valencia (VLC / LEVC),Thu 10:56AM CET,Thu 12:51PM CET,0 days 01:55:00,1h 55m,115,115,0
+283,CES596,A320,Hong Kong Int'l (HKG / VHHH),Hangzhou Xiaoshan Int'l (HGH / ZSHC),Thu 05:56PM HKT,Thu 07:43PM CST,0 days 01:47:00,2h 15m,107,135,28
+284,CES6405,A320,Nanchang Changbei Int'l (KHN / ZSCN),Taiyuan Wusu (TYN / ZBYN),Thu 05:56PM CST,Thu 07:40PM CST,0 days 01:44:00,2h 05m,104,125,21
+285,CSC6908,A320,Fuzhou Changle Int'l (FOC / ZSFZ),Chengdu Tianfu Int'l (TFU / ZUTF),Thu 05:55PM CST,Thu 08:50PM CST,0 days 02:55:00,3h 10m,175,190,15
+286,CSN3452,A320,Kunming Changshui Int'l (KMG / ZPPP),Shenzhen Bao'an Int'l (SZX / ZGSZ),Thu 05:56PM CST,Thu 07:33PM CST,0 days 01:37:00,1h 40m,97,100,3
+287,CTV412,A320,Jakarta-Soekarno-Hatta Int'l (CGK / WIII),Supadio (PNK / WIOO),Thu 04:56PM WIB,Thu 06:16PM WIB,0 days 01:20:00,1h 40m,80,100,20
+288,EZY2106,A320,Charles de Gaulle/Roissy (CDG / LFPG),Manchester (MAN / EGCC),Thu 10:57AM CET,Thu 10:45AM GMT,0 days 00:48:00,1h 25m,48,85,37
+289,EZY2260,A320,Keflavik Int'l (KEF / BIKF),Manchester (MAN / EGCC),Thu 09:57AM GMT,Thu 12:07PM GMT,0 days 02:10:00,2h 40m,130,160,30
+290,IGO5328,A320,Chatrapati Shivaji Int'l (BOM / VABB),Raipur (RPR / VERP),Thu 03:27PM IST,Thu 04:47PM IST,0 days 01:20:00,1h 25m,80,85,5
+291,JST534,A320,Melbourne Tullamarine (MEL / YMML),Sydney (SYD / YSSY),Thu 08:57PM AEDT,Thu 10:00PM AEDT,0 days 00:50:00,1h 10m,50,70,20
+292,SAA40,A320,OR Tambo Int'l (JNB / FAOR),Victoria Falls (FVFA),Thu 11:57AM SAST,Thu 01:12PM CAT,0 days 01:15:00,1h 15m,75,75,0
+293,VOI953,A320,Fresno Yosemite Intl (KFAT),Don Miguel Hidalgo y Costilla Int'l (GDL / MMGL),Thu 01:57AM PST,Thu 07:09AM CST,0 days 03:12:00,3h 22m,192,202,10
+294,AFL1842,A320,Sheremetyevo Int'l (SVO / UUEE),Minsk Int'l (MSQ / UMMS),Thu 01:20PM MSK,Thu 02:25PM +03,0 days 01:21:00,1h 15m,81,75,-6
+295,AFL2814,A320,Pulkovo (LED / ULLI),Adler-Sochi Int'l (AER / URSS),Thu 01:20PM MSK,Thu 05:32PM MSK,0 days 04:12:00,4h 35m,252,275,23
+296,AHY8105,A320,Heydar Aliyev Int'l (GYD / UBBB),Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),Thu 02:21PM +04,Thu 04:01PM +03,0 days 02:40:00,3h 00m,160,180,20
+297,ARE4093,A320,Rafael Nunez Int'l (CTG / SKCG),El Dorado Int'l (BOG / SKBO),Thu 05:19AM -05,Thu 06:34AM -05,0 days 01:15:00,1h 34m,75,94,19
+298,ARE4150,A320,El Dorado Int'l (BOG / SKBO),Simon Bolivar (SMR / SKSM),Thu 05:18AM -05,Thu 06:20AM -05,0 days 01:15:00,1h 12m,75,72,-3
+299,AVA8452,A320,El Dorado Int'l (BOG / SKBO),Rafael Nunez Int'l (CTG / SKCG),Thu 05:20AM -05,Thu 06:31AM -05,0 days 01:11:00,1h 31m,71,91,20
+300,AWQ463,A320,Lombok International (LOP / WADL),Kuala Lumpur Int'l (KUL / WMKK),Thu 06:20PM WITA,Thu 09:00PM +08,0 days 02:40:00,2h 40m,160,160,0
+301,BTK6372,A320,Jakarta-Soekarno-Hatta Int'l (CGK / WIII),Yogyakarta International Airport (YIA / WAHI),Thu 05:19PM WIB,Thu 06:14PM WIB,0 days 00:55:00,1h 05m,55,65,10
+302,CCA2683,A320,Chengdu Tianfu Int'l (TFU / ZUTF),Jieyang Chaoshan International Airport (SWA / ZGOW),Thu 06:22PM CST,Thu 08:27PM CST,0 days 02:05:00,2h 07m,125,127,2
+303,CCA8294,A320,Chengdu Tianfu Int'l (TFU / ZUTF),Wuhan Tianhe (WUH / ZHHH),Thu 06:18PM CST,Thu 07:39PM CST,0 days 01:24:00,1h 33m,84,93,9
+304,CES6127,A320,Chengdu Tianfu Int'l (TFU / ZUTF),Zhanjiang (ZHA / ZGZJ),Thu 06:20PM CST,Thu 08:11PM CST,0 days 01:50:00,1h 55m,110,115,5
+305,CSC6426,A320,Dalian Zhoushuizi Int'l (DLC / ZYTL),Rizhao Shanzihe (RIZ / ZSRZ),Thu 06:20PM CST,Thu 07:16PM CST,0 days 00:56:00,1h 06m,56,66,10
+306,CSC8767,A320,Chengdu Shuangliu Int'l (CTU / ZUUU),Changsha Huanghua Int'l (CSX / ZGHA),Thu 06:21PM CST,Thu 07:48PM CST,0 days 01:23:00,1h 37m,83,97,14
+307,CSN3040,A320,Singapore Changi (SIN / WSSS),Guangzhou Baiyun Int'l (CAN / ZGGG),Thu 06:21PM +08,Thu 09:59PM CST,0 days 03:37:00,3h 47m,217,227,10
+308,CTV172,A320,Halim Perdanakusuma Int'l (HLP / WIHH),Juanda Int'l (SUB / WARR),Thu 05:20PM WIB,Thu 06:25PM WIB,0 days 01:05:00,1h 30m,65,90,25
+309,EJU3807,A320,Malpensa Int'l (MXP / LIMC),Charles de Gaulle/Roissy (CDG / LFPG),Thu 11:20AM CET,Thu 12:10PM CET,0 days 00:50:00,1h 25m,50,85,35
+310,EJU4592,A320,General Humberto Delgado Airport (LIS / LPPT),Charles de Gaulle/Roissy (CDG / LFPG),Fri 10:20AM WET,Fri 01:14PM CET,0 days 01:54:00,2h 22m,114,142,28
+311,EZS1591,A320,Geneva Cointrin Int'l (GVA / LSGG),Skopje (SKP / LWSK),Fri 11:19AM CET,Fri 01:00PM CET,0 days 01:31:00,2h 01m,91,121,30
+312,EZY2952,A320,Innsbruck (Kranebitten) (INN / LOWI),Bristol Int'l (BRS / EGGD),Fri 11:22AM CET,Fri 11:47AM GMT,0 days 01:25:00,1h 55m,85,115,30
+313,EZY7774,A320,Luxembourg Int'l (LUX / ELLX),Porto / Oporto (OPO / LPPR),Fri 11:18AM CET,Fri 12:22PM WET,0 days 02:03:00,2h 23m,123,143,20
+314,FIN1362,A320,Manchester (MAN / EGCC),Helsinki-Vantaa (HEL / EFHK),Fri 10:19AM GMT,Fri 02:58PM EET,0 days 02:30:00,3h 00m,150,180,30
+315,GBB209,A320,OR Tambo Int'l (JNB / FAOR),King Shaka Int'l (DUR / FALE),Fri 12:18PM SAST,Fri 12:56PM SAST,0 days 00:38:00,0h 48m,38,48,10
+316,GPX810,A320,Pristina (PRN / BKPR),Basle-Mulhouse (EAP / LFSB),Fri 11:20AM CET,Fri 01:00PM CET,0 days 01:40:00,1h 40m,100,100,0
+317,IBE3010,A320,Adolfo Suárez Madrid-Barajas (MAD / LEMD),Barcelona Int'l (BCN / LEBL),Fri 11:21AM CET,Fri 12:21PM CET,0 days 01:00:00,1h 10m,60,70,10
+318,JST532,A320,Melbourne Tullamarine (MEL / YMML),Sydney (SYD / YSSY),Fri 09:19PM AEDT,Fri 10:25PM AEDT,0 days 00:49:00,1h 16m,49,76,27
+319,JST612,A320,Avalon (AVV / YMAV),Sydney (SYD / YSSY),Fri 09:19PM AEDT,Fri 10:25PM AEDT,0 days 00:51:00,1h 16m,51,76,25
+320,ABY221,A320,Sharjah Int'l (SHJ / OMSJ),al-Jouf Domestic (AJF / OESK),Fri 02:37PM +04,Fri 04:12PM +03,0 days 02:35:00,2h 55m,155,175,20
+321,AFL1387,A320,Ulyanovsk Baratayeveka Airport (ULV / UWLL),Sheremetyevo Int'l (SVO / UUEE),Fri 02:38PM +04,Fri 02:58PM MSK,0 days 01:20:00,1h 30m,80,90,10
+322,AIQ3215,A320,Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),Krabi (KBV / VTSG),Fri 05:37PM +07,Fri 06:52PM +07,0 days 01:15:00,1h 15m,75,75,0
+323,AIQ3557,A320,Nan (NNT / VTCN),Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),Fri 05:38PM +07,Fri 06:28PM +07,0 days 00:50:00,0h 50m,50,50,0
+324,ARE4052,A320,Alfonso Bonilla Aragon Int'l (CLO / SKCL),El Dorado Int'l (BOG / SKBO),Fri 05:37AM -05,Fri 06:16AM -05,0 days 00:45:00,0h 40m,45,40,-5
+325,AWQ507,A320,Singapore Changi (SIN / WSSS),Ngurah Rai/Bali Intl (DPS / WADD),Fri 06:39PM +08,Fri 09:24PM WITA,0 days 02:45:00,0h 37m,165,37,-128
+326,AXM137,A320,Hong Kong Int'l (HKG / VHHH),Kuala Lumpur Int'l (KUL / WMKK),Fri 06:36PM HKT,Fri 09:55PM +08,0 days 03:30:00,2h 35m,210,155,-55
+327,AXM5173,A320,RMAF Labuan (LBU / WBKL),Kuala Lumpur Int'l (KUL / WMKK),Fri 06:39PM +08,Fri 08:44PM +08,0 days 02:05:00,2h 05m,125,125,0
+328,BAW753,A320,Basle-Mulhouse (EAP / LFSB),London Heathrow (LHR / EGLL),Fri 11:38AM CET,Fri 11:46AM GMT,0 days 01:15:00,1h 45m,75,105,30
+329,CBJ5964,A320,Kunming Changshui Int'l (KMG / ZPPP),Shijiazhuang Zhengding International Airport (SJW / ZBSJ),Fri 06:37PM CST,Fri 09:10PM CST,0 days 02:33:00,2h 55m,153,175,22
+330,CTN481,A320,Copenhagen (CPH / EKCH),Zagreb Pleso (ZAG / LDZA),Fri 11:37AM CET,Fri 01:00PM CET,0 days 01:30:00,1h 30m,90,90,0
+331,CTV435,A320,Sepinggan Int'l (BPN / WALL),Juanda Int'l (SUB / WARR),Fri 06:39PM WITA,Fri 06:59PM WIB,0 days 01:20:00,1h 40m,80,100,20
+332,DAL1294,A320,Albany Intl (KALB),Detroit Metro Wayne Co (KDTW),Fri 05:37AM EST,Fri 06:56AM EST,0 days 01:19:00,1h 25m,79,85,6
+333,EJU3750,A320,Barcelona Int'l (BCN / LEBL),Malpensa Int'l (MXP / LIMC),Fri 11:39AM CET,Fri 01:45PM CET,0 days 02:06:00,2h 17m,126,137,11
+334,EWG7589,A320,Palma de Mallorca (or Son Sant Joan) (PMI / LEPA),Hamburg (HAM / EDDH),Fri 11:38AM CET,Fri 02:08PM CET,0 days 02:30:00,2h 30m,150,150,0
+335,FHY988,A320,Adolfo Suárez Madrid-Barajas (MAD / LEMD),,Fri 11:38AM CET,,,0h 06m,,6,
+336,IAD1455,A320,Bengaluru Int'l (BLR / VOBL),Biju Patnaik (BBI / VEBS),Fri 04:09PM IST,Fri 05:49PM IST,0 days 01:40:00,1h 40m,100,100,0
+337,IAD792,A320,Lokpriya Gopinath Bordoloi Int'l (GAU / VEGT),Imphal (Tulihal) (IMF / VEIM),Fri 04:09PM IST,Fri 04:46PM IST,0 days 00:36:00,0h 35m,36,35,-1
+338,IBE3092,A320,Adolfo Suárez Madrid-Barajas (MAD / LEMD),Porto / Oporto (OPO / LPPR),Fri 11:39AM CET,Fri 11:39AM WET,0 days 01:00:00,1h 00m,60,60,0
+339,ITY343,A320,Nice Cote d'Azur (NCE / LFMN),Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF),Fri 11:38AM CET,Fri 12:44PM CET,0 days 01:09:00,0h 50m,69,50,-19
+340,JAT10,A320,Comodoro Arturo Merino Benitez Int'l (SCL / SCEL),Diego Aracena Int'l (IQQ / SCDA),Fri 07:37AM -03,Fri 09:43AM -03,0 days 02:06:00,2h 03m,126,123,-3
+341,PGT3706,A320,Adana Şakirpaşa (ADA / LTAF),Trabzon (TZX / LTCG),Fri 01:38PM +03,Fri 02:38PM +03,0 days 01:00:00,1h 00m,60,60,0
+342,SAS613,A320,Copenhagen (CPH / EKCH),Geneva Cointrin Int'l (GVA / LSGG),Fri 11:38AM CET,Fri 01:23PM CET,0 days 01:45:00,1h 40m,105,100,-5
+343,SJV872,A320,Jakarta-Soekarno-Hatta Int'l (CGK / WIII),Sultan Mahmud Badaruddin II (PLM / WIPP),Fri 05:38PM WIB,Fri 06:28PM WIB,0 days 00:50:00,0h 50m,50,50,0
+344,TAM3537,A320,São Paulo-Congonhas (CGH / SBSP),Presidente Juscelino Kubitschek Int'l (BSB / SBBR),Fri 07:37AM -03,Fri 09:07AM -03,0 days 01:30:00,1h 43m,90,103,13
+345,TAP1901,A320,General Humberto Delgado Airport (LIS / LPPT),Faro (FAO / LPFR),Fri 10:37AM WET,Fri 11:07AM WET,0 days 00:30:00,0h 25m,30,25,-5
+346,VJC456,A320,Phu Quoc International (PQC / VVPQ),Noi Bai Int'l (HAN / VVNB),Fri 05:38PM +07,Fri 07:28PM +07,0 days 01:50:00,1h 50m,110,110,0
+347,VOI453,A320,Cancun Int'l (CUN / MMUN),General Abelardo L. Rodriguez Int'l (TIJ / MMTJ),Fri 05:39AM EST,Fri 07:07AM PST,0 days 04:28:00,4h 55m,268,295,27
+348,WMT4659,A320,Adolfo Suárez Madrid-Barajas (MAD / LEMD),Cluj-Napoca Int'l (Someşeni) (CLJ / LRCL),Fri 11:36AM CET,Fri 03:20PM EET,0 days 02:44:00,2h 54m,164,174,10
+349,AIQ3351,A320,Udon Thani Int'l (UTH / VTUD),Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),Fri 06:05PM +07,Fri 06:50PM +07,0 days 00:45:00,0h 45m,45,45,0
+350,AXM6460,A320,Kuching Int'l (KCH / WBGG),Sibu (SBW / WBGS),Fri 07:06PM +08,Fri 07:26PM +08,0 days 00:20:00,0h 49m,20,49,29
+351,BAW501,A320,General Humberto Delgado Airport (LIS / LPPT),London Heathrow (LHR / EGLL),Fri 11:06AM WET,Fri 01:31PM GMT,0 days 02:25:00,2h 40m,145,160,15
+352,CSC3281,A320,Xi'an Xianyang Int'l (XIY / ZLXY),Yibin (YBP / ZUYB),Fri 07:06PM CST,Fri 08:29PM CST,0 days 01:23:00,1h 34m,83,94,11
+353,CSN3927,A320,Changsha Huanghua Int'l (CSX / ZGHA),Taiyuan Wusu (TYN / ZBYN),Fri 07:06PM CST,Fri 08:48PM CST,0 days 01:42:00,1h 51m,102,111,9
+354,CTV418,A320,Juanda Int'l (SUB / WARR),Supadio (PNK / WIOO),Fri 06:05PM WIB,Fri 07:30PM WIB,0 days 01:25:00,1h 34m,85,94,9
+355,DAL1308,A320,Melbourne Orlando Intl (KMLB),Hartsfield-Jackson Intl (KATL),Fri 06:04AM EST,Fri 07:08AM EST,0 days 01:10:00,1h 55m,70,115,45
+356,DKH1156,A320,Zhuhai Int'l (ZUH / ZGSD),Shanghai Pudong Int'l (PVG / ZSPD),Fri 07:06PM CST,Fri 09:03PM CST,0 days 01:51:00,2h 18m,111,138,27
+357,EWG252,A320,Cologne Bonn (CGN / EDDK),Tenerife South (Reina Sofia) (TFS / GCTS),Fri 12:05PM CET,Fri 03:40PM WET,0 days 04:35:00,4h 35m,275,275,0
+358,EZY2276,A320,Enfidha-Hammamet International Airport (NBE / DTNH),Manchester (MAN / EGCC),Fri 12:05PM CET,Fri 01:49PM GMT,0 days 02:44:00,2h 54m,164,174,10
+359,EZY2541,A320,London Luton (LTN / EGGW),Geneva Cointrin Int'l (GVA / LSGG),Fri 11:06AM GMT,Fri 01:32PM CET,0 days 01:27:00,1h 47m,87,107,20
+360,JBU592,A320,Tampa Intl (KTPA),Boston Logan Intl (KBOS),Fri 06:06AM EST,Fri 08:35AM EST,0 days 02:27:00,2h 52m,147,172,25
+361,JBU959,A320,Bradley Intl (KBDL),Fort Lauderdale Intl (KFLL),Fri 06:06AM EST,Fri 08:36AM EST,0 days 02:30:00,2h 47m,150,167,17
+362,KHV841,A320,Da Nang Int'l (DAD / VVDN),Siem Reap–Angkor International Airport (SAI / VDSA),Fri 06:05PM +07,Fri 07:05PM +07,0 days 01:00:00,1h 15m,60,75,15
+363,LPE2042,A320,Subteniente FAP Alejandro Velasco Astete Int'l (CUZ / SPZO),Jorge Chávez Int'l (LIM / SPJC),Fri 06:07AM -05,Fri 07:12AM -05,0 days 01:05:00,1h 15m,65,75,10
+364,NKS1589,A320,New Orleans Intl (KMSY),Newark Liberty Intl (KEWR),Fri 05:05AM CST,Fri 08:29AM EST,0 days 02:24:00,0h 06m,144,6,-138
+365,OTC7204,A320,Tongren Daxing (TEN / ZUTR),Wuxi (WUX / ZSWX),Fri 07:05PM CST,Fri 08:40PM CST,0 days 01:35:00,1h 58m,95,118,23
+366,QDA6074,A320,Nanjing Lukou Int'l (NKG / ZSNJ),Shenyang Taoxian Int'l (SHE / ZYTX),Fri 07:05PM CST,Fri 08:54PM CST,0 days 01:53:00,2h 34m,113,154,41
+367,QDA9901,A320,Qingdao Jiaodong Int'l (TAO / ZSQD),Incheon Int'l (ICN / RKSI),Fri 07:05PM CST,Fri 09:08PM KST,0 days 01:04:00,1h 45m,64,105,41
+368,SJV816,A320,Jakarta-Soekarno-Hatta Int'l (CGK / WIII),Minangkabau Int'l (replaced Tabing) (PDG / WIEE),Fri 06:06PM WIB,Fri 07:31PM WIB,0 days 01:25:00,2h 00m,85,120,35
+369,TGW124,A320,Singapore Changi (SIN / WSSS),Changsha Huanghua Int'l (CSX / ZGHA),Fri 07:06PM +08,Fri 11:31PM CST,0 days 04:25:00,1h 33m,265,93,-172
+370,AAL835,A320,Tampa Intl (KTPA),Philadelphia Intl (KPHL),Fri 07:10AM EST,Fri 09:16AM EST,0 days 02:06:00,2h 26m,126,146,20
+371,AAY2828,A320,Orlando Sanford Intl (KSFB),The Eastern Iowa (KCID),Fri 07:08AM EST,Fri 09:01AM CST,0 days 02:37:00,2h 57m,157,177,20
+372,AAY3150,A320,Bishop Intl (KFNT),Punta Gorda (KPGD),Fri 07:09AM EST,Fri 10:01AM EST,0 days 02:35:00,3h 10m,155,190,35
+373,AAY851,A320,Punta Gorda (KPGD),Niagara Falls Intl (KIAG),Fri 07:10AM EST,Fri 09:41AM EST,0 days 02:31:00,2h 37m,151,157,6
+374,AFR1747,A320,Malaga (AGP / LEMG),Charles de Gaulle/Roissy (CDG / LFPG),Fri 01:09PM CET,Fri 03:18PM CET,0 days 02:20:00,2h 27m,140,147,7
+375,ARE4011,A320,Jose Maria Cordova Int'l (MDE / SKRG),El Dorado Int'l (BOG / SKBO),Fri 07:09AM -05,Fri 07:42AM -05,0 days 00:33:00,0h 45m,33,45,12
+376,AVA9832,A320,El Dorado Int'l (BOG / SKBO),Los Garzones (MTR / SKMR),Fri 07:09AM -05,Fri 08:16AM -05,0 days 01:07:00,1h 24m,67,84,17
+377,AXM6323,A320,Langkawi Int'l (LGK / WMKL),Kuala Lumpur Int'l (KUL / WMKK),Fri 08:10PM +08,Fri 09:05PM +08,0 days 00:55:00,0h 55m,55,55,0
+378,CGZ7264,A320,Wuhan Tianhe (WUH / ZHHH),Xingyi Wanfenglin Airport (ACX / ZUYI),Fri 08:10PM CST,Fri 10:10PM CST,0 days 02:00:00,2h 06m,120,126,6
+379,CQH6538,A320,Fukuoka (FUK / RJFF),Shanghai Pudong Int'l (PVG / ZSPD),Fri 09:09PM JST,Fri 09:46PM CST,0 days 01:37:00,2h 22m,97,142,45
+380,CQH7550,A320,Shenyang Taoxian Int'l (SHE / ZYTX),Ningbo Lishe Int'l (NGB / ZSNB),Fri 08:09PM CST,Fri 10:26PM CST,0 days 02:19:00,2h 25m,139,145,6
+381,CSN5131,A320,Changsha Huanghua Int'l (CSX / ZGHA),Quanzhou Jinjiang (JJN / ZSQZ),Fri 08:08PM CST,Fri 09:22PM CST,0 days 01:15:00,1h 27m,75,87,12
+382,CSZ9215,A320,Shenzhen Bao'an Int'l (SZX / ZGSZ),Xi'an Xianyang Int'l (XIY / ZLXY),Fri 08:08PM CST,Fri 10:27PM CST,0 days 02:20:00,2h 29m,140,149,9
+383,CTV84,A320,Halim Perdanakusuma Int'l (HLP / WIHH),Sultan Mahmud Badaruddin II (PLM / WIPP),Fri 07:08PM WIB,Fri 07:39PM WIB,0 days 00:49:00,1h 15m,49,75,26
+384,EJU7980,A320,Menara Int'l (RAK / GMMX),Amsterdam Schiphol (AMS / EHAM),Fri 01:08PM +01,Fri 04:24PM CET,0 days 03:06:00,3h 31m,186,211,25
+385,EWG50,A320,Cologne Bonn (CGN / EDDK),Berlin-Brandenburg (BER / EDDB),Fri 01:09PM CET,Fri 02:12PM CET,0 days 01:03:00,1h 13m,63,73,10
+386,EZY1371,A320,Geneva Cointrin Int'l (GVA / LSGG),Valencia (VLC / LEVC),Fri 01:09PM CET,Fri 02:34PM CET,0 days 01:25:00,1h 44m,85,104,19
+387,EZY330,A320,Belfast Int'l (BFS / EGAA),Edinburgh (EDI / EGPH),Fri 12:08PM GMT,Fri 12:31PM GMT,0 days 00:21:00,0h 52m,21,52,31
+388,EZY8697,A320,London Gatwick (LGW / EGKK),Innsbruck (Kranebitten) (INN / LOWI),Fri 12:09PM GMT,Fri 02:31PM CET,0 days 01:22:00,1h 45m,82,105,23
+389,FLI453,A320,Copenhagen (CPH / EKCH),Vagar (FAE / EKVG),Fri 01:08PM CET,Fri 02:05PM WET,0 days 01:55:00,2h 30m,115,150,35
+390,GLG1688,A320,Mariscal Sucre Int'l (UIO / SEQM),Seymour (GPS / SEGS),Fri 07:09AM -05,Fri 08:13AM -06,0 days 02:04:00,2h 35m,124,155,31
+391,GXA3139,A320,Miami Intl (KMIA),Jose Marti Int'l (HAV / MUHA),Fri 07:08AM EST,Fri 07:55AM CST,0 days 00:47:00,0h 47m,47,47,0
+392,QTR1072,A320,Hamad Int'l (DOH / OTHH),Kuwait Int'l (KWI / OKKK),Fri 03:11PM +03,Fri 04:21PM +03,0 days 01:10:00,1h 22m,70,82,12
+393,SJV191,A320,Kuala Lumpur Int'l (KUL / WMKK),Sultan Syarif Qasim II Int'l (Simpang Tiga) (PKU / WIBB),Fri 08:08PM +08,Fri 07:43PM WIB,0 days 00:35:00,0h 35m,35,35,0
+394,TAP1902,A320,Faro (FAO / LPFR),General Humberto Delgado Airport (LIS / LPPT),Fri 12:09PM WET,Fri 12:53PM WET,0 days 00:44:00,0h 59m,44,59,15
+395,THA211,A320,Suvarnabhumi Bangkok Int'l (BKK / VTBS),Phuket Int'l (HKT / VTSP),Fri 07:09PM +07,Fri 08:33PM +07,0 days 01:24:00,1h 30m,84,90,6
+396,THY402,A320,Pulkovo (LED / ULLI),Istanbul Airport (IST / LTFM),Fri 03:09PM MSK,Fri 07:00PM +03,0 days 03:51:00,4h 16m,231,256,25
+397,UAL1035,A320,Reagan National (KDCA),Chicago O'Hare Intl (KORD),Fri 07:10AM EST,Fri 07:55AM CST,0 days 01:50:00,2h 08m,110,128,18
+398,VIV1057,A320,Don Miguel Hidalgo y Costilla Int'l (GDL / MMGL),Lic. Benito Juarez Int'l (MEX / MMMX),Fri 06:10AM CST,Fri 07:15AM CST,0 days 01:05:00,1h 15m,65,75,10
+399,VIV4162,A320,General Mariano Escobedo Int'l (MTY / MMMY),General Heriberto Jara Int'l (VER / MMVR),Fri 06:10AM CST,Fri 07:25AM CST,0 days 01:15:00,1h 30m,75,90,15
+400,VLG8722,A320,Barcelona Int'l (BCN / LEBL),Dublin Int'l (DUB / EIDW),Fri 01:10PM CET,Fri 02:38PM GMT,0 days 02:28:00,2h 48m,148,168,20
+401,VTI563,A320,Chatrapati Shivaji Int'l (BOM / VABB),Jaipur (Sanganer) (JAI / VIJP),Fri 05:38PM IST,Fri 07:13PM IST,0 days 01:35:00,2h 04m,95,124,29
+402,AAY1191,A320,Bismarck Muni (KBIS),Orlando Sanford Intl (KSFB),Sat 02:11PM CST,Sat 06:22PM EST,0 days 03:11:00,4h 35m,191,275,84
+403,AFR1274,A320,Charles de Gaulle/Roissy (CDG / LFPG),"Oslo, Gardermoen (OSL / ENGM)",Sat 09:09PM CET,Sat 11:02PM CET,0 days 01:55:00,2h 10m,115,130,15
+404,ANZ413,A320,Auckland (AKL / NZAA),Wellington Int'l (WLG / NZWN),Sun 09:07AM NZDT,Sun 10:02AM NZDT,0 days 00:50:00,1h 12m,50,72,22
+405,ARE4062,A320,Alfonso Bonilla Aragon Int'l (CLO / SKCL),El Dorado Int'l (BOG / SKBO),Sat 03:06PM -05,Sat 03:42PM -05,0 days 00:36:00,0h 46m,36,46,10
+406,ARE4265,A320,Gustavo Rojas Pinilla Int'l (Sesquicentenario) (ADZ / SKSP),El Dorado Int'l (BOG / SKBO),Sat 03:11PM -05,Sat 04:39PM -05,0 days 01:37:00,1h 38m,97,98,1
+407,AUA327,A320,Vienna Int'l (Schwechat) (VIE / LOWW),Keflavik Int'l (KEF / BIKF),Sat 09:09PM CET,Sun 12:14AM GMT,0 days 04:05:00,4h 30m,245,270,25
+408,AVA9397,A320,Los Garzones (MTR / SKMR),El Dorado Int'l (BOG / SKBO),Sat 03:07PM -05,Sat 04:03PM -05,0 days 00:56:00,1h 26m,56,86,30
+409,AVA9714,A320,El Dorado Int'l (BOG / SKBO),Simon Bolivar (SMR / SKSM),Sat 03:09PM -05,Sat 03:57PM -05,0 days 00:47:00,1h 09m,47,69,22
+410,AZU4816,A320,Marechal Cunha Machado Int'l (SLZ / SBSL),Viracopos Int'l (VCP / SBKP),Sat 05:07PM -03,Sat 08:13PM -03,0 days 03:02:00,3h 26m,182,206,24
+411,CEB279,A320,Manila Int'l (MNL / RPLL),Ngurah Rai/Bali Intl (DPS / WADD),Sun 04:10AM PST,Sun 07:55AM WITA,0 days 03:45:00,3h 40m,225,220,-5
+412,CES2804,A320,Suvarnabhumi Bangkok Int'l (BKK / VTBS),Nanjing Lukou Int'l (NKG / ZSNJ),Sun 03:07AM +07,Sun 07:20AM CST,0 days 03:26:00,4h 05m,206,245,39
+413,EIN875,A320,Tenerife South (Reina Sofia) (TFS / GCTS),Cork Int'l (ORK / EICK),Sat 08:06PM WET,Sat 11:41PM GMT,0 days 03:39:00,3h 58m,219,238,19
+414,EJU7619,A320,General Humberto Delgado Airport (LIS / LPPT),Nantes Atlantique (NTE / LFRS),Sat 08:07PM WET,Sat 10:34PM CET,0 days 01:27:00,1h 51m,87,111,24
+415,ETD372,A320,Bahrain Int'l (BAH / OBBI),Abu Dhabi Int'l (AUH / OMAA),Sat 11:08PM +03,Sun 12:59AM +04,0 days 00:52:00,1h 09m,52,69,17
+416,FIN503,A320,General Humberto Delgado Airport (LIS / LPPT),London Heathrow (LHR / EGLL),Sat 08:10PM WET,Sat 10:30PM GMT,0 days 02:20:00,2h 20m,140,140,0
+417,FJL743,A320,Sharjah Int'l (SHJ / OMSJ),Islamabad International Airport (ISB / OPIS),Sun 12:09AM +04,Sun 03:44AM PKT,0 days 02:35:00,2h 45m,155,165,10
+418,IBS3733,A320,Lyon (LYS / LFLL),Adolfo Suárez Madrid-Barajas (MAD / LEMD),Sat 09:10PM CET,Sat 10:40PM CET,0 days 01:30:00,1h 40m,90,100,10
+419,ISR728,A320,Budapest Ferenc Liszt International Airport (BUD / LHBP),Ben Gurion Int'l (TLV / LLBG),Sat 09:06PM CET,Sun 01:00AM IST,0 days 02:50:00,3h 04m,170,184,14
+420,JAP7780,A320,Jorge Chávez Int'l (LIM / SPJC),,Sat 03:09PM -05,,,0h 07m,,7,
+421,JBU1284,A320,Orlando Intl (KMCO),John F Kennedy Intl (KJFK),Sat 03:10PM EST,Sat 05:02PM EST,0 days 01:53:00,2h 45m,113,165,52
+422,JBU18,A320,Fort Lauderdale Intl (KFLL),Jacksonville Intl (KJAX),Sat 03:07PM EST,Sat 03:49PM EST,0 days 00:59:00,1h 18m,59,78,19
+423,JBU953,A320,John F Kennedy Intl (KJFK),Palm Beach Intl (KPBI),Sat 03:09PM EST,Sat 05:38PM EST,0 days 02:29:00,4h 42m,149,282,133
+424,JST401,A320,Gold Coast (OOL / YBCG),Sydney (SYD / YSSY),Sun 06:08AM AEST,Sun 08:14AM AEDT,0 days 00:50:00,1h 16m,50,76,26
+425,LRC698,A320,El Dorado Int'l (BOG / SKBO),Juan Santamaria Int'l (SJO / MROC),Sat 03:10PM -05,Sat 04:10PM CST,0 days 02:00:00,2h 52m,120,172,52
+426,MSC2932,A320,Hurghada (HRG / HEGN),Hanover/Langenhagen Int'l (HAJ / EDDV),Sat 10:10PM EET,Sun 02:00AM CET,0 days 04:50:00,4h 50m,290,290,0
+427,NIA143,A320,Cairo Int'l (CAI / HECA),Abha Regional (AHB / OEAB),Sat 10:09PM EET,Sun 01:29AM +03,0 days 02:20:00,2h 20m,140,140,0
+428,PGT2264,A320,Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),Milas-Bodrum (BJV / LTFE),Sat 11:11PM +03,Sun 12:11AM +03,0 days 01:00:00,1h 05m,60,65,5
+429,PGT281,A320,Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),Rinas Mother Teresa (TIA / LATI),Sat 11:07PM +03,Sat 10:42PM CET,0 days 01:35:00,2h 13m,95,133,38
+430,RJA672,A320,Queen Alia Int'l (AMM / OJAI),Bahrain Int'l (BAH / OBBI),Sat 11:09PM +03,Sun 01:19AM +03,0 days 02:10:00,2h 20m,130,140,10
+431,TAM3069,A320,Afonso Pena Int'l (CWB / SBCT),São Paulo-Congonhas (CGH / SBSP),Sat 05:07PM -03,Sat 05:52PM -03,0 days 00:45:00,0h 45m,45,45,0
+432,TVJ3820,A320,Suvarnabhumi Bangkok Int'l (BKK / VTBS),Taiwan Taoyuan Int'l (TPE / RCTP),Sun 03:11AM +07,Sun 07:31AM CST,0 days 03:20:00,3h 20m,200,200,0
+433,UAL1555,A320,Lic. Gustavo Diaz Ordaz Int'l (PVR / MMPR),Chicago O'Hare Intl (KORD),Sat 02:09PM CST,Sat 05:48PM CST,0 days 03:39:00,3h 58m,219,238,19
+434,UAL1655,A320,Calgary Int'l (CYYC),Chicago O'Hare Intl (KORD),Sat 01:07PM MST,Sat 05:08PM CST,0 days 03:01:00,3h 21m,181,201,20
+435,VLG1290,A320,Barcelona Int'l (BCN / LEBL),La Coruna (LCG / LECO),Sat 09:11PM CET,Sat 10:41PM CET,0 days 01:30:00,1h 30m,90,90,0
+436,VLG3000,A320,Barcelona Int'l (BCN / LEBL),Gran Canaria Int'l (LPA / GCLP),Sat 09:07PM CET,Sat 11:10PM WET,0 days 03:05:00,3h 27m,185,207,22
+437,VOE2659,A320,Es Senia (ORN / DAOO),Marseille Provence (MRS / LFML),Sat 09:07PM CET,Sat 10:30PM CET,0 days 01:25:00,1h 33m,85,93,8
+438,VOI310,A320,Cancun Int'l (CUN / MMUN),Juan Santamaria Int'l (SJO / MROC),Sat 03:08PM EST,Sat 03:54PM CST,0 days 01:53:00,2h 09m,113,129,16
+439,VOI843,A320,is Aeropuerto Nacional de Colima-Lic. Miguel de la Madrid (CLQ / MMIA),General Abelardo L. Rodriguez Int'l (TIJ / MMTJ),Sat 02:06PM CST,Sat 02:51PM PST,0 days 02:46:00,3h 04m,166,184,18
+440,VOI877,A320,General Abelardo L. Rodriguez Int'l (TIJ / MMTJ),Lic. Benito Juarez Int'l (MEX / MMMX),Sat 12:08PM PST,Sat 05:05PM CST,0 days 02:57:00,3h 21m,177,201,24
+441,VTI236,A320,King Abdulaziz Int'l (JED / OEJN),Chatrapati Shivaji Int'l (BOM / VABB),Sat 11:11PM +03,Sun 06:51AM IST,0 days 05:10:00,5h 43m,310,343,33
+442,AAY2532,A320,Chicago/Rockford Intl (KRFD),Punta Gorda (KPGD),Sat 03:01PM CST,Sat 06:57PM EST,0 days 02:35:00,3h 13m,155,193,38
+443,AAY3027,A320,Clearwater Intl (KPIE),McGhee Tyson (KTYS),Sat 04:01PM EST,Sat 05:20PM EST,0 days 01:21:00,1h 25m,81,85,4
+444,AEE6005,A320,"Thessaloniki Int'l, Makedonia (SKG / LGTS)",,Sat 11:00PM EET,,,0h 12m,,12,
+445,ANZ416,A320,Wellington Int'l (WLG / NZWN),Auckland (AKL / NZAA),Sun 10:01AM NZDT,Sun 10:54AM NZDT,0 days 00:45:00,1h 09m,45,69,24
+446,ARE4372,A320,El Dorado Int'l (BOG / SKBO),Gustavo Rojas Pinilla Int'l (Sesquicentenario) (ADZ / SKSP),Sat 04:02PM -05,Sat 06:01PM -05,0 days 01:50:00,2h 09m,110,129,19
+447,ARE4407,A320,Orlando Intl (KMCO),El Dorado Int'l (BOG / SKBO),Sat 04:02PM EST,Sat 07:53PM -05,0 days 03:32:00,4h 06m,212,246,34
+448,AZU4275,A320,Campo Grande Int'l (CGR / SBCG),Marechal Rondon (CGB / SBCY),Sat 05:01PM -04,Sat 05:55PM -04,0 days 00:41:00,1h 16m,41,76,35
+449,BIX2517,A320,Gran Canaria Int'l (LPA / GCLP),,Sat 09:01PM WET,,,0h 11m,,11,
+450,CEB619,A320,Manila Int'l (MNL / RPLL),Bohol-Panglao (TAG / RPSP),Sun 05:00AM PST,Sun 06:30AM PST,0 days 01:25:00,1h 40m,85,100,15
+451,CES212,A320,Manila Int'l (MNL / RPLL),Shanghai Pudong Int'l (PVG / ZSPD),Sun 05:01AM PST,Sun 07:40AM CST,0 days 02:43:00,3h 05m,163,185,22
+452,DAL1078,A320,Valley Intl (KHRL),Minneapolis/St Paul Intl (KMSP),Sat 03:02PM CST,Sat 05:42PM CST,0 days 02:41:00,2h 55m,161,175,14
+453,EIN529,A320,Charles de Gaulle/Roissy (CDG / LFPG),Dublin Int'l (DUB / EIDW),Sat 10:01PM CET,Sat 10:05PM GMT,0 days 01:14:00,1h 34m,74,94,20
+454,EIN799,A320,İzmir Adnan Menderes Int'l (ADB / LTBJ),Dublin Int'l (DUB / EIDW),Sun 12:00AM +03,Sun 01:15AM GMT,0 days 04:15:00,4h 34m,255,274,19
+455,EZY3020,A320,Arrecife (Lanzarote) (ACE / GCRR),Belfast Int'l (BFS / EGAA),Sat 09:01PM WET,Sun 12:55AM GMT,0 days 03:56:00,4h 14m,236,254,18
+456,KAC344,A320,Chennai Int'l (MAA / VOMM),Kuwait Int'l (KWI / OKKK),Sun 02:30AM IST,Sun 05:30AM +03,0 days 05:20:00,5h 40m,320,340,20
+457,LAN13,A320,Comodoro Arturo Merino Benitez Int'l (SCL / SCEL),,Sat 06:01PM -03,,,0h 12m,,12,
+458,N230AC,A320,Los Garzones (MTR / SKMR),,Sat 04:00PM -05,,,0h 11m,,11,
+459,SDM6024,A320,Vnukovo (VKO / UUWW),Pulkovo (LED / ULLI),Sun 12:00AM MSK,Sun 12:55AM MSK,0 days 01:00:00,1h 05m,60,65,5
+460,UAL1009,A320,Denver Intl (KDEN),Nashville Intl (KBNA),Sat 02:02PM MST,Sat 05:16PM CST,0 days 02:01:00,2h 27m,121,147,26
+461,VIV4227,A320,General Rodolfo Sanchez Taboada Int'l (MXL / MMML),General Mariano Escobedo Int'l (MTY / MMMY),Sat 01:02PM PST,Sat 04:55PM CST,0 days 01:59:00,2h 03m,119,123,4
+462,VIV9387,A320,General Lucio Blanco Int'l (REX / MMRX),Mexico City Santa Lucía Airport (NLU / MMSM),Sat 03:00PM CST,Sat 04:15PM CST,0 days 01:15:00,1h 15m,75,75,0
+463,VLG3519,A320,Barcelona Int'l (BCN / LEBL),Ibiza (IBZ / LEIB),Sat 10:02PM CET,Sat 10:45PM CET,0 days 00:36:00,0h 53m,36,53,17
+464,VLG3953,A320,Valencia (VLC / LEVC),Palma de Mallorca (or Son Sant Joan) (PMI / LEPA),Sat 10:00PM CET,Sat 10:46PM CET,0 days 00:33:00,0h 55m,33,55,22
+465,VLG6575,A320,Asturias (OVD / LEAS),Gran Canaria Int'l (LPA / GCLP),Sat 10:00PM CET,Sat 11:35PM WET,0 days 02:35:00,2h 45m,155,165,10
+466,AAY2532,A320,Chicago/Rockford Intl (KRFD),Punta Gorda (KPGD),Sat 03:01PM CST,Sat 06:57PM EST,0 days 02:35:00,3h 13m,155,193,38
+467,ABQ170,A320,Jinnah Int'l (KHI / OPKC),King Abdulaziz Int'l (JED / OEJN),Sun 03:06AM PKT,Sun 06:01AM +03,0 days 04:55:00,5h 05m,295,305,10
+468,ABY518,A320,Sharjah Int'l (SHJ / OMSJ),Shahjalal International Airport (DAC / VGHS),Sun 02:03AM +04,Sun 08:08AM +06,0 days 04:05:00,4h 15m,245,255,10
+469,ABY562,A320,Sharjah Int'l (SHJ / OMSJ),Faisalabad Int'l (LYP / OPFA),Sun 02:06AM +04,Sun 05:31AM PKT,0 days 02:25:00,2h 35m,145,155,10
+470,AVA9399,A320,Antonio Narino (PSO / SKPS),El Dorado Int'l (BOG / SKBO),Sat 05:06PM -05,Sat 05:55PM -05,0 days 00:16:00,1h 17m,16,77,61
+471,AVA9780,A320,El Dorado Int'l (BOG / SKBO),Gustavo Rojas Pinilla Int'l (Sesquicentenario) (ADZ / SKSP),Sat 05:05PM -05,Sat 06:33PM -05,0 days 01:27:00,2h 13m,87,133,46
+472,AWQ200,A320,Jakarta-Soekarno-Hatta Int'l (CGK / WIII),Kuala Lumpur Int'l (KUL / WMKK),Sun 05:03AM WIB,Sun 07:43AM +08,0 days 01:40:00,1h 40m,100,100,0
+473,AXM5135,A320,Kota Kinabalu Int'l (BKI / WBKK),Kuala Lumpur Int'l (KUL / WMKK),Sun 06:03AM +08,Sun 08:20AM +08,0 days 02:10:00,2h 27m,130,147,17
+474,BTK6672,A320,Jakarta-Soekarno-Hatta Int'l (CGK / WIII),APT Pranoto (AAP / WALS),Sun 05:05AM WIB,Sun 08:05AM WITA,0 days 02:00:00,2h 10m,120,130,10
+475,CEB373,A320,Manila Int'l (MNL / RPLL),Roxas (RXS / RPVR),Sun 06:05AM PST,Sun 07:00AM PST,0 days 00:55:00,1h 00m,55,60,5
+476,CEB893,A320,Manila Int'l (MNL / RPLL),Caticlan (Godofredo P. Ramos) (MPH / RPVE),Sun 06:03AM PST,Sun 06:40AM PST,0 days 00:50:00,0h 47m,50,47,-3
+477,EZY7604,A320,Charles de Gaulle/Roissy (CDG / LFPG),General Humberto Delgado Airport (LIS / LPPT),Sat 11:03PM CET,Sun 12:10AM WET,0 days 01:53:00,2h 27m,113,147,34
+478,GLG1639,A320,Jose Joaquin de Olmedo Int'l (GYE / SEGU),,Sat 05:06PM -05,,,0h 04m,,4,
+479,JAP7294,A320,Jorge Chávez Int'l (LIM / SPJC),,Sat 05:05PM -05,,,0h 05m,,5,
+480,JBU1825,A320,Fort Lauderdale Intl (KFLL),Jorge Chávez Int'l (LIM / SPJC),Sat 05:03PM EST,Sat 10:21PM -05,0 days 05:25:00,2h 48m,325,168,-157
+481,JBU1968,A320,Punta Cana Int'l (PUJ / MDPC),John F Kennedy Intl (KJFK),Sat 06:07PM AST,Sat 08:39PM EST,0 days 03:32:00,3h 51m,212,231,19
+482,JST201,A320,Sydney (SYD / YSSY),Auckland (AKL / NZAA),Sun 09:06AM AEDT,Sun 01:58PM NZDT,0 days 02:52:00,3h 16m,172,196,24
+483,JST471,A320,Newcastle-Williamtown Airport / RAAF (NTL / YWLM),Melbourne Tullamarine (MEL / YMML),Sun 09:04AM AEDT,Sun 10:25AM AEDT,0 days 01:01:00,1h 31m,61,91,30
+484,JZR335,A320,Kuwait Int'l (KWI / OKKK),Domodedovo Int'l (DME / UUDD),Sun 01:07AM +03,Sun 05:42AM MSK,0 days 04:35:00,4h 43m,275,283,8
+485,LPE2265,A320,Padre Jose de Aldamiz Int'l (PEM / SPTU),Jorge Chávez Int'l (LIM / SPJC),Sat 05:05PM -05,Sat 06:35PM -05,0 days 01:15:00,1h 40m,75,100,25
+486,RZO175,A320,Porto / Oporto (OPO / LPPR),Ponta Delgada Joao Paulo II (PDL / LPPD),Sat 10:04PM WET,Sat 11:15PM -01,0 days 02:10:00,2h 30m,130,150,20
+487,VOI1035,A320,Mexico City Santa Lucía Airport (NLU / MMSM),Don Miguel Hidalgo y Costilla Int'l (GDL / MMGL),Sat 04:06PM CST,Sat 05:15PM CST,0 days 01:09:00,1h 19m,69,79,10
+488,VOI499,A320,Del Bajio Guanajuato Int'l (BJX / MMLO),General Abelardo L. Rodriguez Int'l (TIJ / MMTJ),Sat 04:04PM CST,Sat 04:54PM PST,0 days 02:47:00,3h 11m,167,191,24
+489,VOI924,A320,Lic. Jesus Teran Peredo Int'l (AGU / MMAS),Los Angeles Intl (KLAX),Sat 04:05PM CST,Sat 04:45PM PST,0 days 02:40:00,3h 00m,160,180,20
+490,VOI967,A320,Harry Reid Intl (KLAS),Lic. Benito Juarez Int'l (MEX / MMMX),Sat 02:04PM PST,Sat 07:25PM CST,0 days 03:17:00,3h 53m,197,233,36

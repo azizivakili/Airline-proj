@@ -1,0 +1,161 @@
+Aircraft,Flight Type,Origin,Destination,Departure_Date,Departure_Time,Arrival_Date,Arrival_Time,EA_Time,RA_Time,Delay_Time
+VLG6210,A320,Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF),Malaga (AGP / LEMG),08.03.2024,15:54,08.03.2024,18:19,145,157,12
+JBU2795,A320,Fort Lauderdale Intl (KFLL),Cancun Int'l (CUN / MMUN),08.03.2024,10:54,08.03.2024,11:47,113,137,24
+AVA8562,A320,Antonio Narino (PSO / SKPS),,,,,,,,
+ARE4015,A320,Jose Maria Cordova Int'l (MDE / SKRG),El Dorado Int'l (BOG / SKBO),08.03.2024,09:54,08.03.2024,10:27,33,49,16
+UAL1383,A320,Houston Bush Int'ctl (KIAH),John Wayne (KSNA),08.03.2024,09:54,08.03.2024,11:13,199,213,14
+CCA8233,A320,Wuhan Tianhe (WUH / ZHHH),,,,,,,,
+BEL3738,A320,Malaga (AGP / LEMG),Brussels (BRU / EBBR),08.03.2024,15:54,08.03.2024,18:22,148,198,50
+CSZ9994,A320,Qingdao Jiaodong Int'l (TAO / ZSQD),Guangzhou Baiyun Int'l (CAN / ZGGG),08.03.2024,22:53,09.03.2024,02:04,182,162,-20
+EZY2151,A320,Manchester (MAN / EGCC),Istanbul Airport (IST / LTFM),08.03.2024,14:53,08.03.2024,21:02,189,182,-7
+LDA9754,A320,Banja Luka Int'l (BNX / LQBK),Vienna Int'l (Schwechat) (VIE / LOWW),08.03.2024,15:53,08.03.2024,16:33,40,78,38
+PGT1005,A320,Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),Dusseldorf Int'l (DUS / EDDL),08.03.2024,17:53,08.03.2024,19:03,190,228,38
+EJU4301,A320,Lyon (LYS / LFLL),La Rochelle (LRH / LFBH),08.03.2024,15:53,08.03.2024,16:42,49,71,22
+IBE3279,A320,Budapest Ferenc Liszt International Airport (BUD / LHBP),Adolfo Suárez Madrid-Barajas (MAD / LEMD),08.03.2024,15:53,08.03.2024,19:03,190,233,43
+CSZ9935,A320,Shenzhen Bao'an Int'l (SZX / ZGSZ),Changzhou Benniu (CZX / ZSCG),08.03.2024,22:53,09.03.2024,00:40,109,152,43
+UAL2330,A320,Pensacola Intl (KPNS),Houston Bush Int'ctl (KIAH),08.03.2024,09:53,08.03.2024,11:22,90,72,-18
+AAY2466,A320,Albany Intl (KALB),Punta Gorda (KPGD),08.03.2024,10:53,08.03.2024,13:40,167,217,50
+BAW890,A320,London Heathrow (LHR / EGLL),,,,,,,,
+AIQ3015,A320,Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),Phuket Int'l (HKT / VTSP),08.03.2024,21:53,08.03.2024,22:58,65,58,-7
+KNE46,A320,King Abdulaziz Int'l (JED / OEJN),King Khalid Int'l (RUH / OERK),08.03.2024,17:53,08.03.2024,19:08,75,101,26
+UAL224,A320,Chicago O'Hare Intl (KORD),Tucson Intl (KTUS),08.03.2024,09:53,08.03.2024,11:39,230,222,-8
+VLG6367,A320,Santiago de Compostela (SCQ / LEST),San Pablo (SVQ / LEZL),08.03.2024,15:53,08.03.2024,16:57,64,44,-20
+DKH1754,A320,Dayong (DYG / ZGDY),Nanjing Lukou Int'l (NKG / ZSNJ),08.03.2024,22:53,09.03.2024,00:08,75,85,10
+EZY8633,A320,London Gatwick (LGW / EGKK),Hamburg (HAM / EDDH),08.03.2024,14:52,08.03.2024,16:49,57,56,-1
+AUA513,A320,Vienna Int'l (Schwechat) (VIE / LOWW),Malpensa Int'l (MXP / LIMC),08.03.2024,15:52,08.03.2024,16:57,65,59,-6
+EZS1031,A320,Basle-Mulhouse (EAP / LFSB),Valencia (VLC / LEVC),08.03.2024,15:52,08.03.2024,17:32,100,116,16
+AWQ555,A320,Kuala Lumpur Int'l (KUL / WMKK),Ngurah Rai/Bali Intl (DPS / WADD),08.03.2024,22:52,09.03.2024,01:32,160,163,3
+EZY1557,A320,Geneva Cointrin Int'l (GVA / LSGG),,,,,,,,
+LDA8792,A320,Beauvais Tille (BVA / LFOB),Zagreb Pleso (ZAG / LDZA),08.03.2024,15:52,08.03.2024,17:32,100,89,-11
+KNE788,A320,King Khalid Int'l (RUH / OERK),Prince Mohammad Bin Abdulaziz (MED / OEMA),08.03.2024,17:52,08.03.2024,19:12,80,117,37
+TGW581,A320,Visakhapatnam (VTZ / VOVZ),Singapore Changi (SIN / WSSS),08.03.2024,20:22,09.03.2024,02:35,235,260,25
+ARE4178,A320,El Dorado Int'l (BOG / SKBO),Palonegro (BGA / SKBG),08.03.2024,09:52,08.03.2024,10:39,47,38,-9
+QTR1111,A320,Bahrain Int'l (BAH / OBBI),Hamad Int'l (DOH / OTHH),08.03.2024,17:52,08.03.2024,18:29,36,84,48
+BAW1312,A320,London Heathrow (LHR / EGLL),Aberdeen (ABZ / EGPD),08.03.2024,14:52,08.03.2024,15:45,64,84,20
+GAP2824,A320,Francisco Bangoy Int'l (DVO / RPMD),,,,,,,,
+CSZ9652,A320,Quanzhou Jinjiang (JJN / ZSQZ),Guangzhou Baiyun Int'l (CAN / ZGGG),08.03.2024,22:52,09.03.2024,00:05,74,68,-6
+EJU1683,A320,Nice Cote d'Azur (NCE / LFMN),Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF),08.03.2024,15:52,08.03.2024,16:32,40,50,10
+LPE2380,A320,Jorge Chávez Int'l (LIM / SPJC),Jorge Newbery (AEP / SABE),08.03.2024,09:52,08.03.2024,15:52,240,262,22
+BAW485,A320,Barcelona Int'l (BCN / LEBL),London Heathrow (LHR / EGLL),08.03.2024,15:52,08.03.2024,16:31,97,89,-8
+VIV3255,A320,Carlos Rovirosa Perez Int'l (VSA / MMVA),Don Miguel Hidalgo y Costilla Int'l (GDL / MMGL),08.03.2024,08:52,08.03.2024,10:32,99,99,0
+ROU1512,A320,Thunder Bay Int'l (Thunder Bay) (CYQT),Toronto Pearson Int'l (CYYZ),08.03.2024,10:52,08.03.2024,12:09,97,98,1
+AIC404,A320,Rajkot (HSR / VAHS),Indira Gandhi Int'l (DEL / VIDP),08.03.2024,20:22,08.03.2024,21:35,80,117,37
+VLG8479,A320,Porto / Oporto (OPO / LPPR),Barcelona Int'l (BCN / LEBL),08.03.2024,14:51,08.03.2024,17:12,85,132,47
+IBE3149,A320,Václav Havel Airport (PRG / LKPR),Adolfo Suárez Madrid-Barajas (MAD / LEMD),08.03.2024,15:51,08.03.2024,18:45,170,190,20
+AIC238,A320,Shahjalal International Airport (DAC / VGHS),Indira Gandhi Int'l (DEL / VIDP),08.03.2024,20:51,08.03.2024,22:50,145,134,-11
+AMC625,A320,Linate (LIN / LIML),,08.03.2024,15:51,,,,,
+DLH2100,A320,Munich Int'l (MUC / EDDM),Hanover/Langenhagen Int'l (HAJ / EDDV),08.03.2024,15:51,08.03.2024,16:35,45,79,34
+TAM3783,A320,Guararapes Int'l (Gilberto Freyre Int'l) (REC / SBRF),Presidente Juscelino Kubitschek Int'l (BSB / SBBR),08.03.2024,11:51,08.03.2024,14:11,140,141,1
+CSN6242,A320,Xining Caojiabu (XNN / ZLXN),Guangzhou Baiyun Int'l (CAN / ZGGG),08.03.2024,22:51,09.03.2024,01:35,164,191,27
+ETD387,A320,Seeb Int'l (MCT / OOMS),Abu Dhabi Int'l (AUH / OMAA),08.03.2024,18:51,08.03.2024,19:21,50,51,1
+AUA848,A320,Rinas Mother Teresa (TIA / LATI),Vienna Int'l (Schwechat) (VIE / LOWW),08.03.2024,15:50,08.03.2024,17:06,71,88,17
+5AK5112,A320,El Dorado Int'l (BOG / SKBO),,08.03.2024,09:50,,,,,
+AIQ3013,A320,Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),Phuket Int'l (HKT / VTSP),08.03.2024,21:50,08.03.2024,22:55,65,85,20
+RYL411,A320,Near Wuzhou, Guangxi,,,08.03.2024,22:50,,,
+NKS2706,A320,Baltimore/Washington Intl (KBWI),Orlando Intl (KMCO),08.03.2024,10:50,08.03.2024,12:54,115,154,39
+LAN420,A320,Jorge Newbery (AEP / SABE),,08.03.2024,11:50,,,,,
+TAM3043,A320,Tancredo Neves Int'l (CNF / SBCF),São Paulo-Congonhas (CGH / SBSP),08.03.2024,11:50,08.03.2024,12:51,61,51,-10
+WMT3551,A320,Timişoara Traian Vuia Int'l (TSR / LRTR),Orio al Serio Int'l (BGY / LIME),08.03.2024,16:50,08.03.2024,17:20,90,115,25
+AIQ3206,A320,Chiang Rai Int'l (CEI / VTCT),Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),08.03.2024,21:50,08.03.2024,22:45,55,78,23
+VLG3513,A320,Ibiza (IBZ / LEIB),Barcelona Int'l (BCN / LEBL),08.03.2024,15:50,08.03.2024,16:10,36,42,6
+PGT1865,A320,Ercan Int'l (ECN / LCEN),İzmir Adnan Menderes Int'l (ADB / LTBJ),08.03.2024,16:50,08.03.2024,18:50,60,81,21
+JBU1861,A320,LaGuardia (KLGA),Southwest Florida Intl (KRSW),08.03.2024,10:50,08.03.2024,13:18,151,168,17
+VTI575,A320,Bengaluru Int'l (BLR / VOBL),Sardar Vallabhbhai Patel Int'l (Ahmedabad) (AMD / VAAH),08.03.2024,20:20,08.03.2024,21:50,105,99,-6
+EZY8710,A320,Menara Int'l (RAK / GMMX),London Gatwick (LGW / EGKK),08.03.2024,14:49,08.03.2024,17:18,149,195,46
+AAY482,A320,The Eastern Iowa (KCID),Fort Lauderdale Intl (KFLL),08.03.2024,09:49,08.03.2024,13:46,155,170,15
+JST671,A320,Darwin Int'l / RAAF (DRW / YPDN),Sydney (SYD / YSSY),09.03.2024,00:19,09.03.2024,05:32,216,237,21
+JAP7224,A320,Jorge Chávez Int'l (LIM / SPJC),,08.03.2024,09:49,,,,,
+TAM3009,A320,Presidente Juscelino Kubitschek Int'l (BSB / SBBR),São Paulo-Congonhas (CGH / SBSP),08.03.2024,11:49,08.03.2024,13:20,90,131,41
+UAL246,A320,Seattle-Tacoma Intl (KSEA),San Francisco Int'l (KSFO),08.03.2024,07:49,08.03.2024,09:51,122,135,13
+ITY1792,A320,Palermo Int'l (Punta Raisi Falcone-Borsellino) (PMO / LICJ),Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF),08.03.2024,15:49,08.03.2024,16:55,60,58,-2
+CTV250,A320,Jakarta-Soekarno-Hatta Int'l (CGK / WIII),Sultan Hasanuddin Int'l (UPG / WAAA),08.03.2024,21:49,09.03.2024,00:54,125,122,-3
+OTC7120,A320,Changsha Huanghua Int'l (CSX / ZGHA),Kunming Changshui Int'l (KMG / ZPPP),08.03.2024,22:49,09.03.2024,00:38,111,136,25
+IBE3271,A320,Hamburg (HAM / EDDH),Adolfo Suárez Madrid-Barajas (MAD / LEMD),08.03.2024,15:49,08.03.2024,19:05,185,186,1
+CES9923,A320,Xi'an Xianyang Int'l (XIY / ZLXY),Penglai International (YNT / ZSYT),08.03.2024,22:49,09.03.2024,00:29,106,101,-5
+CSC6715,A320,Chengdu Tianfu Int'l (TFU / ZUTF),Guangzhou Baiyun Int'l (CAN / ZGGG),08.03.2024,22:49,09.03.2024,00:46,113,145,32
+UEA2214,A320,Shenzhen Bao'an Int'l (SZX / ZGSZ),Xingyi Wanfenglin Airport (ACX / ZUYI),08.03.2024,22:49,09.03.2024,00:32,103,108,5
+UAL342,A320,Reagan National (KDCA),Chicago O'Hare Intl (KORD),08.03.2024,10:48,08.03.2024,11:47,119,109,-10
+AAY3206,A320,Phoenix-Mesa Gateway (KIWA),Appleton Intl (KATW),08.03.2024,07:48,08.03.2024,12:49,162,197,35
+TAM3719,A320,Ministro Victor Konder Int'l (NVT / SBNF),São Paulo-Congonhas (CGH / SBSP),08.03.2024,11:48,08.03.2024,12:35,45,84,39
+Airborne Airbus A320 (twin-jet) (A320) Aircraft,,,,,,,,,,
+AFR1822,A320,Charles de Gaulle/Roissy (CDG / LFPG),Munich Int'l (MUC / EDDM),08.03.2024,15:48,08.03.2024,17:08,80,71,-9
+AVA9764,A320,El Dorado Int'l (BOG / SKBO),Simon Bolivar (SMR / SKSM),08.03.2024,09:48,08.03.2024,10:47,47,96,49
+TAM8020,A320,Governor Francisco Gabrielli Int'l (El Plumerillo Int'l) (MDZ / SAME),São Paulo-Guarulhos Int'l (GRU / SBGR),08.03.2024,11:48,08.03.2024,14:40,174,208,34
+EZY1232,A320,Edinburgh (EDI / EGPH),Basle-Mulhouse (EAP / LFSB),08.03.2024,14:48,08.03.2024,17:41,113,109,-4
+AFL1233,A320,Ufa Int'l (UFA / UWUU),Sheremetyevo Int'l (SVO / UUEE),08.03.2024,19:48,08.03.2024,19:55,125,114,-11
+PGT1018,A320,Cologne Bonn (CGN / EDDK),Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),08.03.2024,15:48,08.03.2024,20:35,170,174,4
+VTI766,A320,Netaji Subhash Chandra Bose Int'l (CCU / VECC),Bengaluru Int'l (BLR / VOBL),08.03.2024,20:18,08.03.2024,22:22,135,138,3
+DAL1729,A320,Orlando Intl (KMCO),Raleigh-Durham Intl (KRDU),08.03.2024,10:48,08.03.2024,12:04,78,65,-13
+PGT2794,A320,Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),Samsun (SZF / LTFH),08.03.2024,17:48,08.03.2024,18:45,70,91,21
+DLH274,A320,Frankfurt Int'l (FRA / EDDF),Linate (LIN / LIML),08.03.2024,15:48,08.03.2024,16:45,55,104,49
+PGT1262,A320,Rotterdam (RTM / EHRD),Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),08.03.2024,15:48,08.03.2024,20:53,185,195,10
+CSN6226,A320,Qingdao Jiaodong Int'l (TAO / ZSQD),Daqing Sartu (DQA / ZYDQ),08.03.2024,22:48,09.03.2024,00:42,110,132,22
+SAS767,A320,Copenhagen (CPH / EKCH),,,,,,,,
+PGT980,A320,Berlin-Brandenburg (BER / EDDB),Istanbul Sabiha Gokcen Int'l (SAW / LTFJ),08.03.2024,15:48,08.03.2024,20:10,150,180,30
+CES6798,A320,Chengdu Tianfu Int'l (TFU / ZUTF),Beijing Daxing International Airport (PKX / ZBAD),08.03.2024,22:48,09.03.2024,00:39,126,145,19
+CSN6207,A320,Harbin Taiping Int'l (HRB / ZYHB),Beijing Daxing International Airport (PKX / ZBAD),08.03.2024,22:48,09.03.2024,00:37,109,106,-3
+QDA9876,A320,Dalian Zhoushuizi Int'l (DLC / ZYTL),Qingdao Jiaodong Int'l (TAO / ZSQD),08.03.2024,22:48,08.03.2024,23:35,41,84,43
+SNG6614,A320,Taiyuan Wusu (TYN / ZBYN),Harbin Taiping Int'l (HRB / ZYHB),08.03.2024,22:48,09.03.2024,01:06,134,181,47
+CJL206,A320,Toronto Pearson Int'l (CYYZ),,,,,,,,
+CQH6521,A320,Shenzhen Bao'an Int'l (SZX / ZGSZ),Wuxi (WUX / ZSWX),08.03.2024,22:47,09.03.2024,00:38,113,140,27
+SAA357,A320,OR Tambo Int'l (JNB / FAOR),Cape Town Int'l (CPT / FACT),08.03.2024,16:47,08.03.2024,18:35,105,124,19
+AIQ3426,A320,Chiang Mai Int'l (CNX / VTCC),Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),08.03.2024,21:47,08.03.2024,22:45,65,65,0
+UAL1567,A320,Lic. Benito Juarez Int'l (MEX / MMMX),Washington Dulles Intl (KIAD),08.03.2024,08:47,08.03.2024,14:41,234,223,-11
+AAL2327,A320,Dallas-Fort Worth Intl (KDFW),Eglin AFB/Destin-Ft Walton Beach (KVPS),08.03.2024,09:47,08.03.2024,11:11,90,76,-14
+APG288,A320,Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),Manila Int'l (MNL / RPLL),08.03.2024,21:47,09.03.2024,01:56,180,174,-6
+TAR722,A320,Tunis-Carthage Int'l (TUN / DTTA),,,,,,,,
+VTI590,A320,Manohar International Airport (GOX / VOGA),Rajiv Gandhi Int'l (HYD / VOHS),08.03.2024,20:17,08.03.2024,21:00,55,82,27
+GBB124,A320,Cape Town Int'l (CPT / FACT),OR Tambo Int'l (JNB / FAOR),08.03.2024,16:47,08.03.2024,17:50,73,56,-17
+AFL1214,A320,Sheremetyevo Int'l (SVO / UUEE),Kurumoch (KUF / UWWW),08.03.2024,17:47,08.03.2024,20:17,90,123,33
+EZY5108,A320,Barcelona Int'l (BCN / LEBL),Berlin-Brandenburg (BER / EDDB),08.03.2024,15:47,08.03.2024,17:49,131,177,46
+CBJ5158,A320,Kunming Changshui Int'l (KMG / ZPPP),Hangzhou Xiaoshan Int'l (HGH / ZSHC),08.03.2024,22:47,09.03.2024,01:03,136,144,8
+AAY354,A320,Orlando Sanford Intl (KSFB),,,,,,,,
+JBU173,A320,Fort Lauderdale Intl (KFLL),Punta Cana Int'l (PUJ / MDPC),08.03.2024,10:47,08.03.2024,12:33,133,126,-7
+UAL764,A320,Chicago O'Hare Intl (KORD),Calgary Int'l (CYYC),08.03.2024,09:47,08.03.2024,12:04,210,213,3
+CES6581,A320,Shanghai Pudong Int'l (PVG / ZSPD),Hefei Xinqiao Airport (HFE / ZSOF),08.03.2024,22:47,08.03.2024,23:49,61,80,19
+CSN8071,A320,Guangzhou Baiyun Int'l (CAN / ZGGG),Kuala Lumpur Int'l (KUL / WMKK),08.03.2024,22:47,09.03.2024,02:30,219,266,47
+EWG9801,A320,Orio al Serio Int'l (BGY / LIME),,08.03.2024,15:46,,,,,
+EIN168,A320,Dublin Int'l (DUB / EIDW),London Heathrow (LHR / EGLL),08.03.2024,14:46,08.03.2024,15:27,47,27,-20
+VLG8715,A320,Vienna Int'l (Schwechat) (VIE / LOWW),Barcelona Int'l (BCN / LEBL),08.03.2024,15:46,08.03.2024,17:55,125,166,41
+JBU2357,A320,Newark Liberty Intl (KEWR),Sangster Int'l (MBJ / MKJS),08.03.2024,10:46,08.03.2024,13:05,228,265,37
+Airborne Airbus A320 (twin-jet) (A320) Aircraft,,,,,,,,,,
+CES6798,A320,Chengdu Tianfu Int'l (TFU / ZUTF),Beijing Daxing International Airport (PKX / ZBAD),08.03.2024,22:48,09.03.2024,00:39,126,142,16
+CJL206,A320,Toronto Pearson Int'l (CYYZ),Orlando Intl (KMCO),08.03.2024,10:48,08.03.2024,13:33,142,131,-11
+CSN6207,A320,Harbin Taiping Int'l (HRB / ZYHB),Beijing Daxing International Airport (PKX / ZBAD),08.03.2024,22:48,09.03.2024,00:37,109,110,1
+SNG6614,A320,Taiyuan Wusu (TYN / ZBYN),Harbin Taiping Int'l (HRB / ZYHB),08.03.2024,22:48,09.03.2024,01:06,134,144,10
+QDA9876,A320,Dalian Zhoushuizi Int'l (DLC / ZYTL),Qingdao Jiaodong Int'l (TAO / ZSQD),08.03.2024,22:48,08.03.2024,23:35,41,69,28
+CQH6521,A320,Shenzhen Bao'an Int'l (SZX / ZGSZ),Wuxi (WUX / ZSWX),08.03.2024,22:47,09.03.2024,00:38,113,125,12
+AIQ3426,A320,Chiang Mai Int'l (CNX / VTCC),Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),08.03.2024,21:47,08.03.2024,22:45,65,105,40
+SAA357,A320,OR Tambo Int'l (JNB / FAOR),Cape Town Int'l (CPT / FACT),08.03.2024,16:47,08.03.2024,18:35,105,101,-4
+UAL1567,A320,Lic. Benito Juarez Int'l (MEX / MMMX),Washington Dulles Intl (KIAD),08.03.2024,08:47,08.03.2024,14:41,234,246,12
+AAL2327,A320,Dallas-Fort Worth Intl (KDFW),Eglin AFB/Destin-Ft Walton Beach (KVPS),08.03.2024,09:47,08.03.2024,11:11,90,109,19
+APG288,A320,Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD),Manila Int'l (MNL / RPLL),08.03.2024,21:47,09.03.2024,01:56,180,173,-7
+TAR722,A320,Tunis-Carthage Int'l (TUN / DTTA),Paris Orly (ORY / LFPO),08.03.2024,15:47,08.03.2024,17:52,125,149,24
+VTI590,A320,Manohar International Airport (GOX / VOGA),,,,,,,,
+GBB124,A320,Cape Town Int'l (CPT / FACT),OR Tambo Int'l (JNB / FAOR),08.03.2024,16:47,08.03.2024,17:50,73,63,-10
+AFL1214,A320,Sheremetyevo Int'l (SVO / UUEE),Kurumoch (KUF / UWWW),08.03.2024,17:47,08.03.2024,20:17,90,95,5
+EZY5108,A320,Barcelona Int'l (BCN / LEBL),Berlin-Brandenburg (BER / EDDB),08.03.2024,15:47,08.03.2024,17:49,131,176,45
+CBJ5158,A320,Kunming Changshui Int'l (KMG / ZPPP),Hangzhou Xiaoshan Int'l (HGH / ZSHC),08.03.2024,22:47,09.03.2024,01:03,136,125,-11
+AAY354,A320,Orlando Sanford Intl (KSFB),Nashville Intl (KBNA),08.03.2024,10:47,08.03.2024,11:14,86,104,18
+JBU173,A320,Fort Lauderdale Intl (KFLL),Punta Cana Int'l (PUJ / MDPC),08.03.2024,10:47,08.03.2024,12:33,133,115,-18
+UAL764,A320,Chicago O'Hare Intl (KORD),Calgary Int'l (CYYC),08.03.2024,09:47,08.03.2024,12:04,210,200,-10
+CES6581,A320,Shanghai Pudong Int'l (PVG / ZSPD),Hefei Xinqiao Airport (HFE / ZSOF),08.03.2024,22:47,08.03.2024,23:49,61,48,-13
+CSN8071,A320,Guangzhou Baiyun Int'l (CAN / ZGGG),Kuala Lumpur Int'l (KUL / WMKK),08.03.2024,22:47,09.03.2024,02:30,219,221,2
+EWG9801,A320,Orio al Serio Int'l (BGY / LIME),,08.03.2024,15:46,,,,,
+EIN168,A320,Dublin Int'l (DUB / EIDW),London Heathrow (LHR / EGLL),08.03.2024,14:46,08.03.2024,15:27,47,65,18
+VLG8715,A320,Vienna Int'l (Schwechat) (VIE / LOWW),Barcelona Int'l (BCN / LEBL),08.03.2024,15:46,08.03.2024,17:55,125,109,-16
+JBU2357,A320,Newark Liberty Intl (KEWR),Sangster Int'l (MBJ / MKJS),08.03.2024,10:46,08.03.2024,13:05,228,264,36
+VIV3045,A320,General Heriberto Jara Int'l (VER / MMVR),,,,,,,,
+VTI809,A320,Indira Gandhi Int'l (DEL / VIDP),Bengaluru Int'l (BLR / VOBL),08.03.2024,20:16,08.03.2024,22:36,145,127,-18
+THA121,A320,Chiang Mai Int'l (CNX / VTCC),Suvarnabhumi Bangkok Int'l (BKK / VTBS),08.03.2024,21:46,08.03.2024,22:46,60,82,22
+VLG3220,A320,Barcelona Int'l (BCN / LEBL),Tenerife South (Reina Sofia) (TFS / GCTS),08.03.2024,15:46,08.03.2024,18:15,195,240,45
+CSZ8760,A320,Yibin (YBP / ZUYB),Quanzhou Jinjiang (JJN / ZSQZ),08.03.2024,22:46,09.03.2024,00:39,126,156,30
+CSC8738,A320,Guangzhou Baiyun Int'l (CAN / ZGGG),Chengdu Shuangliu Int'l (CTU / ZUUU),08.03.2024,22:46,09.03.2024,00:52,125,160,35
+SJV745,A320,Ngurah Rai/Bali Intl (DPS / WADD),,,,,,,,
+EIN507,A320,Bordeaux-Merignac (BOD / LFBD),Dublin Int'l (DUB / EIDW),08.03.2024,15:45,08.03.2024,16:10,100,106,6
+TAP1015,A320,Adolfo Suárez Madrid-Barajas (MAD / LEMD),General Humberto Delgado Airport (LIS / LPPT),08.03.2024,15:45,08.03.2024,15:24,63,55,-8
+VOE2038,A320,Lyon (LYS / LFLL),Václav Havel Airport (PRG / LKPR),08.03.2024,15:45,08.03.2024,17:00,80,111,31
+VOE1134,A320,Olbia-Costa Smeralda (OLB / LIEO),,,,,,,,
+ARE4061,A320,El Dorado Int'l (BOG / SKBO),Alfonso Bonilla Aragon Int'l (CLO / SKCL),08.03.2024,09:45,08.03.2024,10:32,47,37,-10
+AXM720,A320,Singapore Changi (SIN / WSSS),Kuala Lumpur Int'l (KUL / WMKK),08.03.2024,22:45,08.03.2024,23:25,50,63,13
+DKH1076,A320,Qingdao Jiaodong Int'l (TAO / ZSQD),Shanghai Pudong Int'l (PVG / ZSPD),08.03.2024,22:45,08.03.2024,23:53,70,109,39

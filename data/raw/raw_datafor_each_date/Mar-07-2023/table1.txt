@@ -1,0 +1,43 @@
+
+Airborne Airbus A320 (twin-jet) (A320) Aircraft							
+Ident	Type	Origin	Destination	Departure	EstimatedArrival Time	EstimatedTimeEnroute
+PGT1261	A320	Istanbul Sabiha Gokcen Int'l (SAW / LTFJ)	Rotterdam (RTM / EHRD)	Fri 11:55AM +03	Fri 01:15PM CET	03:30
+AXM385	A320	Jakarta-Soekarno-Hatta Int'l (CGK / WIII)	Kuala Lumpur Int'l (KUL / WMKK)	Fri 03:55PM WIB	Fri 06:45PM +08	01:50
+CTV195	A320	Ngurah Rai/Bali Intl (DPS / WADD)	Halim Perdanakusuma Int'l (HLP / WIHH)	Fri 04:55PM WITA	Fri 05:25PM WIB	01:30
+THY2201	A320	Kahramanmaraş (KCM / LTCN)	Istanbul Airport (IST / LTFM)	Fri 11:54AM +03	Fri 01:10PM +03	01:15
+MAC358V	A320	Toulouse-Blagnac (TLS / LFBO)		Fri 09:54AM CET		
+AFL1234	A320	Sheremetyevo Int'l (SVO / UUEE)	Ufa Int'l (UFA / UWUU)	Fri 11:54AM MSK	Fri 03:15PM +05	01:36
+HYS245	A320	Bucharest Henri Coandă Int'l (OTP / LROP)	Brussels (BRU / EBBR)	Fri 10:54AM EET	Fri 12:14PM CET	02:20
+VTI691	A320	Indira Gandhi Int'l (DEL / VIDP)	Sri Guru Ram Dass Jee International Airport (ATQ / VIAR)	Fri 02:24PM IST	Fri 03:14PM IST	00:50
+AXM5112	A320	Kuala Lumpur Int'l (KUL / WMKK)	Kota Kinabalu Int'l (BKI / WBKK)	Fri 04:54PM +08	Fri 07:09PM +08	02:15
+EWG7581	A320	Palma de Mallorca (or Son Sant Joan) (PMI / LEPA)	Hamburg (HAM / EDDH)	Fri 09:54AM CET	Fri 12:24PM CET	02:30
+CSC6796	A320	Shenzhen Bao'an Int'l (SZX / ZGSZ)	Chengdu Tianfu Int'l (TFU / ZUTF)	Fri 04:54PM CST	Fri 07:06PM CST	02:12
+AXM239	A320	Kota Kinabalu Int'l (BKI / WBKK)	Hong Kong Int'l (HKG / VHHH)	Fri 04:54PM +08	Fri 07:44PM HKT	02:50
+TTW322	A320	Macau Int'l (MFM / VMMC)	Kaohsiung Int'l (KHH / RCKH)	Fri 04:54PM CST	Fri 05:53PM CST	00:59
+EJU3852	A320	Amsterdam Schiphol (AMS / EHAM)	Malpensa Int'l (MXP / LIMC)	Fri 09:53AM CET	Fri 11:11AM CET	01:18
+OTC7771	A320	Changsha Huanghua Int'l (CSX / ZGHA)	Chengdu Tianfu Int'l (TFU / ZUTF)	Fri 04:53PM CST	Fri 06:34PM CST	01:41
+EZY2184	A320	Geneva Cointrin Int'l (GVA / LSGG)	Manchester (MAN / EGCC)	Fri 09:53AM CET	Fri 10:05AM GMT	01:12
+EZY322	A320	Bristol Int'l (BRS / EGGD)	Edinburgh (EDI / EGPH)	Fri 08:53AM GMT	Fri 09:29AM GMT	00:36
+AIQ3017	A320	Don Muang Int'l (Old Bangkok Int'l) (DMK / VTBD)	Phuket Int'l (HKT / VTSP)	Fri 03:53PM +07	Fri 05:08PM +07	01:15
+AFL1386	A320	Near Nizhny Novgorod		Fri 11:53AM MSK		
+XLE903	A320	Murtala Mohammed Int'l (LOS / DNMM)		Fri 09:53AM WAT		
+RBG337	A320	Borg El Arab (HBE / HEBA)	King Khalid Int'l (RUH / OERK)	Fri 10:53AM EET	Fri 01:55PM +03	02:15
+TAM3651	A320	Goiabeiras (VIX / SBVT)	São Paulo-Congonhas (CGH / SBSP)	Fri 05:53AM -03	Fri 07:13AM -03	01:20
+CTV423	A320	APT Pranoto (AAP / WALS)	Jakarta-Soekarno-Hatta Int'l (CGK / WIII)	Fri 04:53PM WITA	Fri 05:37PM WIB	01:50
+ART7764	A320	Istanbul Sabiha Gokcen Int'l (SAW / LTFJ)	Charles de Gaulle/Roissy (CDG / LFPG)	Fri 11:53AM +03	Fri 01:28PM CET	03:35
+BEL3771	A320	Brussels (BRU / EBBR)	Alicante (ALC / LEAL)	Fri 09:53AM CET	Fri 12:03PM CET	02:10
+ITY1463	A320	Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF)	Marco Polo Int'l (Marco Polo Venice) (VCE / LIPZ)	Fri 09:53AM CET	Fri 10:42AM CET	00:53
+AUA379	A320	Vienna Int'l (Schwechat) (VIE / LOWW)	Amsterdam Schiphol (AMS / EHAM)	Fri 09:53AM CET	Fri 11:43AM CET	01:50
+VTI819	A320	Indira Gandhi Int'l (DEL / VIDP)	Bengaluru Int'l (BLR / VOBL)	Fri 02:23PM IST	Fri 04:46PM IST	02:25
+CTV669	A320	Ngurah Rai/Bali Intl (DPS / WADD)	Juanda Int'l (SUB / WARR)	Fri 04:53PM WITA	Fri 04:29PM WIB	00:36
+CES5560	A320	Nanchang Changbei Int'l (KHN / ZSCN)	Shanghai Hongqiao Int'l (SHA / ZSSS)	Fri 04:53PM CST	Fri 05:57PM CST	01:04
+VLG6304	A320	London Gatwick (LGW / EGKK)	Bilbao (BIO / LEBB)	Fri 08:53AM GMT	Fri 11:38AM CET	01:45
+VLG2975	A320	Nantes Atlantique (NTE / LFRS)	Barcelona Int'l (BCN / LEBL)	Fri 09:53AM CET	Fri 10:59AM CET	01:09
+IGO1113	A320	Chennai Int'l (MAA / VOMM)	Shahjalal International Airport (DAC / VGHS)	Fri 02:22PM IST	Fri 04:55PM +06	02:15
+ABY201	A320	Sharjah Int'l (SHJ / OMSJ)	Imam Khomeini Int'l (IKA / OIIE)	Fri 12:52PM +04	Fri 02:12PM +0330	01:50
+CRK255	A320	Taiwan Taoyuan Int'l (TPE / RCTP)	Hong Kong Int'l (HKG / VHHH)	Fri 04:52PM CST	Fri 06:28PM HKT	01:29
+TGW478	A320	Singapore Changi (SIN / WSSS)	Langkawi Int'l (LGK / WMKL)	Fri 04:52PM +08	Fri 06:12PM +08	01:20
+CSZ9109	A320	Shenzhen Bao'an Int'l (SZX / ZGSZ)	Beijing Capital Int'l (PEK / ZBAA)	Fri 04:52PM CST	Fri 07:25PM CST	02:37
+TAM3057	A320	Afonso Pena Int'l (CWB / SBCT)	São Paulo-Congonhas (CGH / SBSP)	Fri 05:52AM -03	Fri 06:30AM -03	00:36
+QTR1207	A320	Ta’if Regional (TIF / OETF)	Hamad Int'l (DOH / OTHH)	Fri 11:52AM +03	Fri 01:42PM +03	01:50
+CTV196	A320	Halim Perdanakusuma Int'l (HLP / WIHH)	Ngurah Rai/Bali Intl (DPS / WADD)	Fri 03:52PM WIB	Fri 06:25PM WITA	01:45

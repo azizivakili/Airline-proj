@@ -1,0 +1,1 @@
+ uvicorn sql_API:app --reload

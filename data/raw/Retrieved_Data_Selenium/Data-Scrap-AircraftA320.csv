@@ -1,0 +1,21 @@
+Aircraft_name,Type,Origin,Destination,Departure,EstimatedArrival Time,EstimatedTimeEnroute
+NKS205,A320,John Glenn Columbus Intl Airport (KCMH),Harry Reid Intl (KLAS),Wed 04:42PM EDT,Wed 05:35PM PDT,03:53
+AEE328,A320,"Athens Int'l, Eleftherios Venizelos (ATH / LGAV)","Heraklion Int'l, Nikos Kazantzakis (HER / LGIR)",Wed 11:42PM EEST,Thu 12:15AM EEST,00:33
+GLG8373,A320,El Dorado Int'l (BOG / SKBO),Mariscal Sucre Int'l (UIO / SEQM),Wed 03:42PM -05,Wed 05:02PM -05,01:20
+DAL32,A320,Dallas-Fort Worth Intl (KDFW),Hartsfield-Jackson Intl (KATL),Wed 03:41PM CDT,Wed 06:16PM EDT,01:33
+JZR511,A320,Kuwait Int'l (KWI / OKKK),Islamabad International Airport (ISB / OPIS),Wed 11:41PM +03,Thu 04:51AM PKT,03:10
+APG604,A320,New Bacolod-Silay (BCD / RPVB),Manila Int'l (MNL / RPLL),Thu 04:41AM PST,Thu 05:41AM PST,01:00
+VLG1310,A320,Barcelona Int'l (BCN / LEBL),Alicante (ALC / LEAL),Wed 10:41PM CEST,Wed 11:36PM CEST,00:55
+TTW217,A320,Tokyo Int'l (Haneda) (HND / RJTT),Taiwan Taoyuan Int'l (TPE / RCTP),Thu 05:41AM JST,Thu 08:09AM CST,03:28
+NKS239,A320,Ernesto Cortissoz Int'l (BAQ / SKBQ),Fort Lauderdale Intl (KFLL),Wed 03:41PM -05,Wed 07:09PM EDT,02:28
+BAW1337,A320,Newcastle (NCL / EGNT),London Heathrow (LHR / EGLL),Wed 09:41PM BST,Wed 10:28PM BST,00:39
+GXA6138,A320,Alexandria Intl (KAEX),Valley Intl (KHRL),Wed 03:40PM CDT,Wed 05:00PM CDT,01:12
+WZZ4116,A320,Barcelona Int'l (BCN / LEBL),Belgrade Nikola Tesla Int'l (BEG / LYBE),Wed 10:40PM CEST,Thu 12:40AM CEST,02:15
+AVA8428,A320,El Dorado Int'l (BOG / SKBO),Almirante Padilla (RCH / SKRH),Wed 03:40PM -05,Wed 04:59PM -05,01:19
+CEB785,A320,Manila Int'l (MNL / RPLL),Bancasi (Butuan) (BXU / RPME),Thu 04:39AM PST,Thu 06:09AM PST,01:30
+LPE2274,A320,Jorge Chávez Int'l (LIM / SPJC),Capitan FAP Jose A. Quinones Gonzales (CIX / SPHI),Wed 03:39PM -05,Wed 04:40PM -05,00:57
+JES3162,A320,Presidente Peron Int'l (NQN / SAZN),,Wed 05:39PM -03,,
+UAL557,A320,Charleston Intl/AFB (KCHS),Denver Intl (KDEN),Wed 04:39PM EDT,Wed 06:13PM MDT,03:34
+ABY418,A320,Sharjah Int'l (SHJ / OMSJ),Sardar Vallabhbhai Patel Int'l (Ahmedabad) (AMD / VAAH),Thu 12:39AM +04,Thu 04:25AM IST,02:20
+UAL1385,A320,Jackson Hole (KJAC),Denver Intl (KDEN),Wed 02:39PM MDT,Wed 03:41PM MDT,01:11
+DAL1467,A320,Detroit Metro Wayne Co (KDTW),Hartsfield-Jackson Intl (KATL),Wed 04:39PM EDT,Wed 06:10PM EDT,01:31

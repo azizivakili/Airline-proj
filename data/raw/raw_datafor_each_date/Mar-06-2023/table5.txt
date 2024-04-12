@@ -1,0 +1,42 @@
+Airborne Airbus A320 (twin-jet) (A320) Aircraft							
+Ident	Type	Origin	Destination	Departure	EstimatedArrival Time	EstimatedTimeEnroute
+LBT613	A320	Bologna (Guglielmo Marconi) (BLQ / LIPE)	Tunis-Carthage Int'l (TUN / DTTA)	Wed 05:59PM CET	Wed 07:19PM CET	01:20
+QTR630	A320	Hamad Int'l (DOH / OTHH)	Sialkot Int'l (SKT / OPST)	Wed 07:59PM +03	Thu 01:14AM PKT	03:15
+VLG3916	A320	Barcelona Int'l (BCN / LEBL)	Palma de Mallorca (or Son Sant Joan) (PMI / LEPA)	Wed 05:58PM CET	Wed 06:32PM CET	00:33
+ANZ582	A320	Christchurch Int'l (CHC / NZCH)	Auckland (AKL / NZAA)	Thu 05:58AM NZDT	Thu 06:54AM NZDT	00:56
+DAL676	A320	Hartsfield-Jackson Intl (KATL)	Dallas-Fort Worth Intl (KDFW)	Wed 11:58AM EST	Wed 12:49PM CST	01:46
+TAM3927	A320	Afonso Pena Int'l (CWB / SBCT)	São Paulo-Congonhas (CGH / SBSP)	Wed 01:58PM -03	Wed 02:43PM -03	00:45
+NKS1619	A320	Pittsburgh Intl (KPIT)	Orlando Intl (KMCO)	Wed 11:58AM EST	Wed 01:58PM EST	02:00
+BAW1449	A320	Edinburgh (EDI / EGPH)	London Heathrow (LHR / EGLL)	Wed 04:58PM GMT	Wed 05:54PM GMT	00:56
+SAS1020	A320	Stockholm-Arlanda (ARN / ESSA)	Skelleftea (SFT / ESNS)	Wed 05:58PM CET	Wed 06:48PM CET	00:50
+LPE2320	A320	Subteniente FAP Alejandro Velasco Astete Int'l (CUZ / SPZO)	Padre Jose de Aldamiz Int'l (PEM / SPTU)	Wed 11:58AM -05	Wed 12:35PM -05	00:40
+DLH194	A320	Frankfurt Int'l (FRA / EDDF)	Berlin-Brandenburg (BER / EDDB)	Wed 05:58PM CET	Wed 06:44PM CET	00:46
+BAW808	A320	London Heathrow (LHR / EGLL)	Copenhagen (CPH / EKCH)	Wed 04:58PM GMT	Wed 07:27PM CET	01:42
+AIC605	A320	Indira Gandhi Int'l (DEL / VIDP)	Chatrapati Shivaji Int'l (BOM / VABB)	Wed 10:28PM IST	Thu 12:18AM IST	01:50
+THY2612	A320	Istanbul Airport (IST / LTFM)	Diyarbakir (DIY / LTCC)	Wed 07:58PM +03	Wed 09:33PM +03	01:35
+EWG4PY	A320	Nuremberg (NUE / EDDN)		Wed 05:58PM CET		
+EZY8407	A320	London Gatwick (LGW / EGKK)	Charles de Gaulle/Roissy (CDG / LFPG)	Wed 04:58PM GMT	Wed 06:46PM CET	00:48
+EIN174	A320	Dublin Int'l (DUB / EIDW)	London Heathrow (LHR / EGLL)	Wed 04:58PM GMT	Wed 05:58PM GMT	01:00
+LPE2111	A320	Jorge Chávez Int'l (LIM / SPJC)	Rodriguez Ballon Int'l (AQP / SPQU)	Wed 11:57AM -05	Wed 01:12PM -05	01:15
+TAP455	A320	Paris Orly (ORY / LFPO)	Porto / Oporto (OPO / LPPR)	Wed 05:57PM CET	Wed 06:50PM WET	01:53
+AVA9726	A320	Alfonso Bonilla Aragon Int'l (CLO / SKCL)	El Dorado Int'l (BOG / SKBO)	Wed 11:57AM -05	Wed 12:42PM -05	00:45
+WAL522	A320	Miami Intl (KMIA)	Ignacio Agramonte Int'l (CMW / MUCM)	Wed 11:57AM EST	Wed 12:47PM CST	00:50
+AAL2468	A320	Dallas-Fort Worth Intl (KDFW)	Xoxocotlan Int'l (OAX / MMOX)	Wed 10:57AM CST	Wed 01:13PM CST	02:40
+ARE4404	A320	El Dorado Int'l (BOG / SKBO)	Simon Bolivar Int'l (Maiquetia Int'l) (CCS / SVMI)	Wed 11:57AM -05	Wed 02:10PM -04	01:13
+AVA220	A320	Jose Maria Cordova Int'l (MDE / SKRG)	Punta Cana Int'l (PUJ / MDPC)	Wed 11:57AM -05	Wed 03:05PM AST	02:05
+IAD558	A320	Bengaluru Int'l (BLR / VOBL)	Netaji Subhash Chandra Bose Int'l (CCU / VECC)	Wed 10:27PM IST	Thu 12:22AM IST	01:55
+THY1845	A320	Istanbul Airport (IST / LTFM)	Athens Int'l, Eleftherios Venizelos (ATH / LGAV)	Wed 07:57PM +03	Wed 08:05PM EET	01:10
+DAL2205	A320	Los Angeles Intl (KLAX)	Dallas-Fort Worth Intl (KDFW)	Wed 08:57AM PST	Wed 01:22PM CST	02:25
+UAL2120	A320	Denver Intl (KDEN)	New Orleans Intl (KMSY)	Wed 09:56AM MST	Wed 12:59PM CST	02:03
+EZY6563	A320	London Gatwick (LGW / EGKK)	Edinburgh (EDI / EGPH)	Wed 04:56PM GMT	Wed 06:00PM GMT	01:04
+FAD508	A320	Dubai Int'l (DXB / OMDB)	King Khalid Int'l (RUH / OERK)	Wed 08:56PM +04	Wed 09:35PM +03	01:35
+EIN844	A320	Cork Int'l (ORK / EICK)	Amsterdam Schiphol (AMS / EHAM)	Wed 04:56PM GMT	Wed 07:21PM CET	01:25
+HKE765	A320	Phuket Int'l (HKT / VTSP)	Hong Kong Int'l (HKG / VHHH)	Wed 11:56PM +07	Thu 03:49AM HKT	03:05
+FAD143	A320	King Khalid Int'l (RUH / OERK)	King Abdulaziz Int'l (JED / OEJN)	Wed 07:56PM +03	Wed 09:31PM +03	01:35
+AFR7309	A320	Nice Cote d'Azur (NCE / LFMN)	Charles de Gaulle/Roissy (CDG / LFPG)	Wed 05:56PM CET	Wed 07:15PM CET	01:21
+EZS1453	A320	Geneva Cointrin Int'l (GVA / LSGG)	Porto / Oporto (OPO / LPPR)	Wed 05:56PM CET	Wed 06:49PM WET	01:53
+ABQ470	A320	Allama Iqbal Int'l (LHE / OPLA)	King Abdulaziz Int'l (JED / OEJN)	Wed 09:56PM PKT	Thu 03:16AM +03	07:20
+BAW1448	A320	London Heathrow (LHR / EGLL)	Edinburgh (EDI / EGPH)	Wed 04:56PM GMT	Wed 05:45PM GMT	00:53
+FIN456	A320	Oulu (OUL / EFOU)	Helsinki-Vantaa (HEL / EFHK)	Wed 06:56PM EET	Wed 07:37PM EET	00:45
+AUA354	A320	Brussels (BRU / EBBR)	Vienna Int'l (Schwechat) (VIE / LOWW)	Wed 05:56PM CET	Wed 07:20PM CET	01:25
+ARE4129	A320	Ernesto Cortissoz Int'l (BAQ / SKBQ)	El Dorado Int'l (BOG / SKBO)	Wed 11:55AM -05	Wed 01:00PM -05	01:06

@@ -1,0 +1,1 @@
+To better manage and work with SQL database, phpmyadmin is used as GUI. 
