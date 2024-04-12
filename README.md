@@ -68,17 +68,16 @@ This process involves parsing the JSON file and inserting its contents into Mong
    - Above proccess is coded in [Prediction code](https://github.com/azizivakili/airline-proj/blob/main/notebooks/Prediction_notebooks/Predicteding_code.ipynb) file. 
    
 ## Visualization
-   - Dataframe will be loaded from Database
+   - [Dataframe](https://github.com/azizivakili/airline-proj/blob/main/data/datasets/AirlinesDelay-Visualized.csv) will be loaded from Database
    - Dealy_Time vs. predicted delay values are plotted to visualize model performance.
    - Scatterplot is created to compare actual delay time with predicted delay time.
    - Predicted delay values are combined with relevant aircraft information and stored in a CSV file 
    - Resulted Dataframes will be saved back to MySQL server database table named 'predicted_delay_MissingArrival'.
-      << VISUALIZATION-File >>
    - Visulization is presented using python and Dash framework.
-     << DASH Visualization File >>  
+   - [Visualization code](https://github.com/azizivakili/airline-proj/blob/main/notebooks/visualized_data/Visualization-code.ipynb)
 
 ## APIs
-- The structure for APIs in this project is based on the FastAPI framework, incorporating CRUD operations. Additionally, it extends to integrate a machine learning model for predicting flight delays 
+- The structure for APIs in this project is based on the FastAPI framework, incorporating CRUD operations. Additionally, it extends to integrate a machine learning model for predicting flight delays. APIs can be accessed in [APIs](https://github.com/azizivakili/airline-proj/tree/main/src/APIs)
 
 ## Tools and Technologies
    - Used Python for Coding
