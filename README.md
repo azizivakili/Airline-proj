@@ -23,13 +23,13 @@ The project is structured as follows:
    - Data is taken from above mentioned website using ETL techniques
    - Web scraping techniques is used to extract relevant flight information(eg: Flight number, departure time, Arrival time and others)
    - Handling different HTML structures and potential changes on dataset website
-   << SELENIUM/SCRAP FILE >>
+   - See sample [Selenium file](https://github.com/azizivakili/airline-proj/blob/main/notebooks/Retrieved_Data_Selenioum/aircraft-A320.ipynb)
 
 2. **Data Integration**:
    - Different extracted live Airline data of various dates are integrated to create unified dataset
    - Dataset is created after joining and unifying differnt data of various dates
-   - Raw Dataset before cleaning is given in Raw_dataset.csv
-   - Final dataset after extraction and cleaning process is given in << DATASET FILE >> which 
+   - Raw Dataset before cleaning is given in file [Raw-Data](https://github.com/azizivakili/airline-proj/blob/main/data/datasets/AirlinesDelay-Raw-Dataset.csv)
+   - Final dataset after extraction and cleaning process is given in file [Dataset](https://github.com/azizivakili/airline-proj/blob/main/data/datasets/AirlinesDelay-Dataset.csv)
 
 3. **Data Cleaninga and Preprocessing**: 
    - Unnecessary columns (eg: 'Origin' and 'Destination') are dropped.
@@ -39,8 +39,8 @@ The project is structured as follows:
 
 4. **Data manipulation**:
    - Creation of SQL Database and Data Import:
-An SQL database named "AirlineDB" is created either through a command line interface or a graphical interface like phpldapadmin.
-A cleaned and pre-processed dataset is imported into the "AirlineDB" database.
+An SQL database named "AirlineDB" is created either through a command line interface or a graphical interface like phpldapadmin. All database includeing tables can be imported using [AirlineDB](https://github.com/azizivakili/airline-proj/blob/main/data/Database/SQL-Ailrline-DB/AirlineDB.sql)
+A cleaned and pre-processed dataset is imported into the "AirlineDB" database 
 This process results in the creation of tables and the population of data within those tables.
 
    - Exporting Database as JSON:
@@ -54,18 +54,18 @@ Connection to the "AirlineDB" database is established using Python modules such 
 Data from the database can be retrieved and manipulated using Python data structures, such as dataframes.
 
    - Exporting Database and importing into MongoDB:
-The JSON file containing the exported data from the SQL server (i.e., "AirlineDB.json") is imported into MongoDB.
+The [JSON file](https://github.com/azizivakili/airline-proj/blob/main/data/Database/MongoDB/AirlineDB.json) containing the exported data from the SQL server (i.e., "AirlineDB.json") is imported into MongoDB.
 This process involves parsing the JSON file and inserting its contents into MongoDB collections, thus migrating the data from the SQL database to MongoDB. Bellow, the command to import inside MongoDB Docker image is given:
    ```
-   # docker exec -it my_mongo bash
-   # mongoimport -d AirlineDB -c AirlinesDelay --authenticationDatabase admin --username admin --password pass --jsonArray --file          data/db/AirlineDB.json
+   * docker exec -it my_mongo bash
+   * mongoimport -d AirlineDB -c AirlinesDelay --authenticationDatabase admin --username admin --password pass --jsonArray --file data/db/AirlineDB.json
    ```
 
 5. **Data Modeling**:
    - The prediciton model is based on linear and multi-linear regression using scikit-learn library
    - All flights delay predection: For all flight delay predictions, a Linear Regression model is utilized. The dataset is extracted from MySQL, specifically from the "AirlinesDelay" file. Subsequently, the data is separated into x_train and y_train dataframes. Simple linear regression is then applied to predict all flight delays based on estimated arrival time and actual arrival times. The predicted results are stored back into MySQL under the filename "FlightPredictions.
    - Predicted delay for missing flights arrival time: Predicted delays for missing flight arrival times are calculated using SimpleImputer with a mean strategy. The dataset utilized for this prediction is also extracted from MySQL,from the "AirlinesDelay" table. Subsequently, the predicted delays for flights with missing arrival times are stored in the "predicted_delay_MissingArrival" dataframe in MySQL.
-see << LINK to PREDICTION-File >> 
+   - Above proccess is coded in [Prediction code](https://github.com/azizivakili/airline-proj/blob/main/notebooks/Prediction_notebooks/Predicteding_code.ipynb) file. 
    
 ## Visualization
    - Dataframe will be loaded from Database
