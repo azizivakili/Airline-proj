@@ -1,4 +1,4 @@
-# Airline Delay Prediction Data Engineering Project
+## Airline Delay Prediction Data Engineering Project
 
 This project aims to predict airline delays using historical flight data. The predictive modeling is performed using linear regression techniques.
 The data set is taken from the following website live data:  
@@ -11,11 +11,11 @@ By clicking on any flight from the table in the first link provided, you can fin
 
 **Objective:**
 - Predict airline delays to improve passenger experience and operational efficiency. The project seeks to address the critical challenges associated with flight delays by developing predictive models for both missing arrival flight delay prediction and total arrival flight delay prediction.
-## Project Overview
+### Project Overview
 
 Airline delays can significantly impact travel schedules and passenger satisfaction. Predicting these delays can help airlines and passengers better plan their journeys. This project focuses on building predictive models to forecast airline delays based on various factors such as expected arrival time, actual arrival time, and aircraft type.
 
-## Project Structure
+### Project Structure
 
 The project is structured as follows:
 
@@ -67,7 +67,7 @@ This process involves parsing the JSON file and inserting its contents into Mong
    - Predicted delay for missing flights arrival time: Predicted delays for missing flight arrival times are calculated using SimpleImputer with a mean strategy. The dataset utilized for this prediction is also extracted from MySQL,from the "AirlinesDelay" table. Subsequently, the predicted delays for flights with missing arrival times are stored in the "predicted_delay_MissingArrival" dataframe in MySQL.
 see << LINK to PREDICTION-File >> 
    
-## Visualization
+### Visualization
    - Dataframe will be loaded from Database
    - Dealy_Time vs. predicted delay values are plotted to visualize model performance.
    - Scatterplot is created to compare actual delay time with predicted delay time.
@@ -77,10 +77,10 @@ see << LINK to PREDICTION-File >>
    - Visulization is presented using python and Dash framework.
      << DASH Visualization File >>  
 
-## APIs
+### APIs
 - The structure for APIs in this project is based on the FastAPI framework, incorporating CRUD operations. Additionally, it extends to integrate a machine learning model for predicting flight delays 
 
-## Tools and Technologies
+### Tools and Technologies
    - Used Python for Coding
    - Web scraping with Selenium and BeautifulSoup for data acquisition
       - We employ web scraping techniques to extract relevant data from the FlightAware website. Python libraries such as BeautifulSoup and requests are used for this purpose. The scraping process involves retrieving HTML content from the designated URL and parsing it to extract the desired information, such as aircraft type, flight details, and timestamps.
@@ -91,12 +91,12 @@ see << LINK to PREDICTION-File >>
    - Prediction modeling using scikit-learn library.
    - Matplotlib for data visualization
      
-## Requirements
+### Requirements
 
 - Python 3.x
 - Libraries: pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn, sqlalchemy, pymysql, mysql-connector-python
 
-## Usage
+### Usage
 
 1. Clone this repository to your local machine.
 2. Install the required libraries using `pip install -r requirements.txt`.
@@ -106,6 +106,6 @@ see << LINK to PREDICTION-File >>
 6. Verify the data stored in the MySQL database tables.
 
 
-## Contributors
+### Contributors
 
 - [Latifa Azizi Vakili]
