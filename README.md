@@ -78,6 +78,10 @@ This process involves parsing the JSON file and inserting its contents into Mong
 
 ## APIs
 - The structure for APIs in this project is based on the FastAPI framework, incorporating CRUD operations. Additionally, it extends to integrate a machine learning model for predicting flight delays. APIs can be accessed in [APIs](https://github.com/azizivakili/airline-proj/tree/main/src/APIs)
+  - [Dash](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/Dash) dashboard APIs are presenting visualization results
+  - [MongoDB-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/MongoDB-API) presents CRUD operations on MogoDB and Mongo Express.
+  - [Prediction-Model-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/Prediction-Model-API) presents prediction API.
+  - [SQLDB-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/SQLDB-API) presents CRUD operations on SQL Database. 
 
 ## Tools and Technologies
    - Used Python for Coding
