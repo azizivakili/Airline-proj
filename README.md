@@ -75,7 +75,7 @@ This process involves parsing the JSON file and inserting its contents into Mong
   - [SQLDB-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/SQLDB-API) presents CRUD operations on SQL Database. 
 
 ## Pytests
-- In order to test and assert our CRUD operations via API, Airlines [API pytest]() is provided.
+- In order to test and assert our CRUD operations via API, Airlines [API pytest](https://github.com/azizivakili/airline-proj/tree/main/src/AirlineDB-Pytest) is provided.
   
 ## Visualization
    - [Dataframe](https://github.com/azizivakili/airline-proj/blob/main/data/datasets/AirlinesDelay-Visualized.csv) will be loaded from Database
