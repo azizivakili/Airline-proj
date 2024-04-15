@@ -67,6 +67,16 @@ This process involves parsing the JSON file and inserting its contents into Mong
    - Predicted delay for missing flights arrival time: Predicted delays for missing flight arrival times are calculated using SimpleImputer with a mean strategy. The dataset utilized for this prediction is also extracted from MySQL,from the "AirlinesDelay" table. Subsequently, the predicted delays for flights with missing arrival times are stored in the "predicted_delay_MissingArrival" dataframe in MySQL.
    - Above proccess is coded in [Prediction code](https://github.com/azizivakili/airline-proj/blob/main/notebooks/Prediction_notebooks/Predicteding_code.ipynb) file. 
    
+## APIs
+- The structure for APIs in this project is based on the FastAPI framework, incorporating CRUD operations. Additionally, it extends to integrate a machine learning model for predicting flight delays. APIs can be accessed in [APIs](https://github.com/azizivakili/airline-proj/tree/main/src/APIs)
+  - [Dash](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/Dash) dashboard APIs are presenting visualization results
+  - [MongoDB-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/MongoDB-API) presents CRUD operations on MogoDB and Mongo Express.
+  - [Prediction-Model-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/Prediction-Model-API) presents prediction API.
+  - [SQLDB-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/SQLDB-API) presents CRUD operations on SQL Database. 
+
+## Pytests
+- In order to test and assert our CRUD operations via API, Airlines [API pytest]() is provided.
+  
 ## Visualization
    - [Dataframe](https://github.com/azizivakili/airline-proj/blob/main/data/datasets/AirlinesDelay-Visualized.csv) will be loaded from Database
    - Dealy_Time vs. predicted delay values are plotted to visualize model performance.
@@ -75,14 +85,7 @@ This process involves parsing the JSON file and inserting its contents into Mong
    - Resulted Dataframes will be saved back to MySQL server database table named 'predicted_delay_MissingArrival'.
    - Visulization is presented using python and Dash framework.
    - [Visualization code](https://github.com/azizivakili/airline-proj/blob/main/notebooks/visualized_data/Visualization-code.ipynb)
-
-## APIs
-- The structure for APIs in this project is based on the FastAPI framework, incorporating CRUD operations. Additionally, it extends to integrate a machine learning model for predicting flight delays. APIs can be accessed in [APIs](https://github.com/azizivakili/airline-proj/tree/main/src/APIs)
-  - [Dash](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/Dash) dashboard APIs are presenting visualization results
-  - [MongoDB-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/MongoDB-API) presents CRUD operations on MogoDB and Mongo Express.
-  - [Prediction-Model-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/Prediction-Model-API) presents prediction API.
-  - [SQLDB-API](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/SQLDB-API) presents CRUD operations on SQL Database. 
-
+     
 ## Tools and Technologies
    - Used Python for Coding
    - Web scraping with Selenium and BeautifulSoup for data acquisition
