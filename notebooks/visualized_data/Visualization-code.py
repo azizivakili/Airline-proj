@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
+
+# In[3]:
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -8,6 +12,10 @@ import numpy as np
 import sqlite3
 import pymysql
 plt.style.use('ggplot')
+
+
+# In[4]:
+
 
 # Load Dataframe from Database
 def retrieve_data_from_mysql(host, user, password, database, table_name):
@@ -36,56 +44,59 @@ def main():
 
 df = main()
 
+
+# In[5]:
+
+
 # Convert numbers to float type. 
 df['EA_Time_Minutes'] = df['EA_Time_Minutes'].replace('', np.nan).astype(float)
 df['RA_Time_Minutes'] = df['RA_Time_Minutes'].replace('', np.nan).astype(float)
 df['Delay_Time'] = df['Delay_Time'].replace('', np.nan).astype(float)
 
-# Scatter plot
-plt.figure(figsize=(8, 6))
-plt.scatter(df['EA_Time_Minutes'], df['RA_Time_Minutes'], c=df['Delay_Time'], s=30, cmap='viridis')
-plt.colorbar(label='Delay Time')
-plt.xlabel('EA_Time_Minutes')
-plt.ylabel('RA_Time_Minutes')
-plt.title('Scatter plot')
-plt.show()
 
-# Bar plot
-plt.figure(figsize=(8, 6))
-plt.bar(range(len(df)), df['EA_Time_Minutes'], label='EA_Time_Minutes')
-plt.xlabel('Index')
-plt.ylabel('EA_Time_Minutes')
-plt.title('Bar plot')
+# In[6]:
+
+
+fig = plt.figure(figsize=(10,10))
+
+plt.subplot(221)
+plt.bar(range(len(df)), df.EA_Time_Minutes, label = 'RA_Time_Minutes')
 plt.legend()
-plt.show()
 
-# Subplots
-fig, axes = plt.subplots(2, 2, figsize=(12, 10))
+plt.subplot(222)
+plt.scatter(df.Delay_Time , df.RA_Time_Minutes, c = 'red', label = "Delay_Time")
+plt.legend()
 
-axes[0, 0].scatter(df['Delay_Time'], df['RA_Time_Minutes'], c='red', label="Delay_Time")
-axes[0, 0].legend()
+plt.subplot(222)
+plt.scatter(df.Delay_Predicted , df.RA_Time_Minutes, c = 'blue', label = "Delay_Predicted")
+plt.legend()
 
-axes[0, 1].scatter(df['Delay_Predicted'], df['RA_Time_Minutes'], c='blue', label="Delay_Predicted")
-axes[0, 1].legend()
+plt.subplot(224)
+plt.hist(df.Delay_Predicted, color='blue', rwidth = 0.8, label = "Delay_Predicted");
+plt.legend();
 
-axes[1, 0].hist(df['Delay_Time'], color='red', rwidth=0.8, label="Delay_Time")
-axes[1, 0].legend()
+plt.subplot(224)
+plt.hist(df.Delay_Time, color='red', rwidth = 0.8, label = "Delay_Time");
+plt.legend();
 
-axes[1, 1].hist(df['Delay_Predicted'], color='blue', rwidth=0.8, label="Delay_Predicted")
-axes[1, 1].legend()
 
-plt.show()
+# In[13]:
 
-# Plot histograms separately
-plt.figure(figsize=(10, 8))
 
-plt.hist(df['Delay_Time'], bins=10, color='red', alpha=0.7, label="Delay_Time")
-plt.hist(df['EA_Time_Minutes'], bins=10, color='blue', alpha=0.7, label="EA_Time_Minutes")
-plt.hist(df['RA_Time_Minutes'], bins=10, color='green', alpha=0.7, label="RA_Time_Minutes")
-
-plt.xlabel('Value')
+plt.hist([df.EA_Time_Minutes, df.RA_Time_Minutes , df.Delay_Time], bins = 6, color = ['#f27750', '#f7bf59', '#f7bf94'],
+         label = ['EA_Time_Minutes', 'RA_Time_Minutes' , 'Delay_Predicted'])
 plt.ylabel('Frequency')
-plt.title('Histograms')
-plt.legend()
-plt.show()
+plt.xlabel('Time')
+plt.title('Delay Estimation')
+plt.legend();
+
+
+# In[14]:
+
+
+df.plot.hist(y=['EA_Time_Minutes', 'Delay_Predicted'], bins = 7, rwidth = 0.8 , color= ['#0c4c83', '#830c4c'], alpha=0.5);
+
+df.plot.hist(y=['RA_Time_Minutes', 'Delay_Predicted'], bins = 7, rwidth = 0.8 , color= ['#0c4c83', '#830c4c'], alpha=0.5);
+
+df.plot.hist(y=['EA_Time_Minutes', 'RA_Time_Minutes'], bins = 7, rwidth = 0.8 , color= ['#0c4c83', '#830c4c'], alpha=0.5);
 
