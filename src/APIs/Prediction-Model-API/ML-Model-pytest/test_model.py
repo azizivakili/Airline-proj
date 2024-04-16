@@ -1,6 +1,6 @@
 import pytest
 from fastapi.testclient import TestClient
-from model1 import app  # assuming your FastAPI app instance is named 'app'
+from model1 import app  
 from model1 import Features
 
 client = TestClient(app)
