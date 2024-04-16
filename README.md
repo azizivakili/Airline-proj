@@ -29,13 +29,14 @@ The project is structured as follows:
    - Different extracted live Airline data of various dates are integrated to create unified dataset
    - Dataset is created after joining and unifying differnt data of various dates
    - Raw Dataset before cleaning is given in file [Raw-Data](https://github.com/azizivakili/airline-proj/blob/main/data/datasets/AirlinesDelay-Raw-Dataset.csv)
-   - Final dataset after extraction and cleaning process is given in file [Dataset](https://github.com/azizivakili/airline-proj/blob/main/data/datasets/AirlinesDelay-Dataset.csv)
 
 3. **Data Cleaninga and Preprocessing**: 
    - Unnecessary columns (eg: 'Origin' and 'Destination') are dropped.
    - Categorical variables are encoded into numerical codes.
    - Missing values in numerical columns are handled by replacing them with the median.
    - Featue engineering is applied on dataset and data formats are changed based on requrements.
+   - Final dataset after extraction and cleaning process is given in file [Dataset](https://github.com/azizivakili/airline-proj/blob/main/data/datasets/AirlinesDelay-Dataset.csv)
+
 
 4. **Data manipulation**:
    - Creation of SQL Database and Data Import:
