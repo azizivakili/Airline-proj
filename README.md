@@ -4,7 +4,7 @@ This project aims to predict airline delays using historical flight data. The pr
 The data set is taken from the following website live data:  
 [FlightAware](https://www.flightaware.com/live/cancelled)
 
-Specifically, data is collected from the this [sourece link](https://www.flightaware.com/live/aircrafttype/A320). 
+Specifically, data is collected from this [sourece link](https://www.flightaware.com/live/aircrafttype/A320). 
 The website provides real-time information about flights, including aircraft types, flight numbers, departure, and arrival times. 
 Also real arrival time of each flight is stored in its specific [aircraft page](https://www.flightaware.com/live/flight/ANA312/history/20240403/2215Z/RJNT/RJTT)   
 By clicking on any flight from the table in the first link provided, you can find the actual arrival time in the subsequent link.
