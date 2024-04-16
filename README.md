@@ -76,6 +76,7 @@ This process involves parsing the JSON file and inserting its contents into Mong
 
 ## Pytest
 - In order to test and assert our CRUD operations via API, Airlines [API pytest](https://github.com/azizivakili/airline-proj/tree/main/src/AirlineDB-Pytest) is provided.
+- The pytest for Prediction model is located in [ML-Pytest](https://github.com/azizivakili/airline-proj/tree/main/src/APIs/Prediction-Model-API/ML-Model-pytest)
   
 ## Visualization
    - [Dataframe](https://github.com/azizivakili/airline-proj/blob/main/data/datasets/AirlinesDelay-Visualized.csv) will be loaded from Database
