@@ -113,6 +113,12 @@ This process involves parsing the JSON file and inserting its contents into Mong
 5. Check the generated CSV files for predicted delay values and visualization plots.
 6. Verify the data stored in the MySQL database tables.
 
+## References
+- https://learn.datascientest.com/
+- https://www.selenium.dev/
+- https://pypi.org/project/pysql/
+- https://www.sqlalchemy.org/
+- https://www.docker.com/
 
 ## Contributors
 
