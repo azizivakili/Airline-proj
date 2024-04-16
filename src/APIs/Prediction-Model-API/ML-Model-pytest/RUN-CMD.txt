@@ -1,0 +1,3 @@
+# in this directory that codes are located, just run: 
+
+python3 -m pytestx 
